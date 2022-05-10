@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一些笔记-i囡漫笔</title>
+  <icon>https://i-nmb.cn/icon.png</icon>
+  <subtitle>i囡漫笔的小窝</subtitle>
+  <link href="https://i-nmb.cn/atom.xml" rel="self"/>
+  
+  <link href="https://i-nmb.cn/"/>
+  <updated>2022-05-09T14:37:48.980Z</updated>
+  <id>https://i-nmb.cn/</id>
+  
+  <author>
+    <name>i囡漫笔</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java对象和类—JAVA语言基础</title>
+    <link href="https://i-nmb.cn/Class-and-object.html"/>
+    <id>https://i-nmb.cn/Class-and-object.html</id>
+    <published>2022-05-09T12:32:46.000Z</published>
+    <updated>2022-05-09T14:37:48.980Z</updated>
+    
+    
+    <summary type="html">面向对象(Object Oriented)是相对于面向过程来讲的，面向对象方法，把相关的数据和方法组织为一个整体来看待，从更高的层次来进行系统建模，更贴近事物的自然运行模式。类（Class）是面向对象程序设计实现信息封装的基础。&lt;br&gt;（本文章参考《Java从入门到精通 第5版 明日科技》。故不采用 BY-NC-SA 许可协议）</summary>
+    
+    
+    
+    
+    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
+    
+    <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在NexT的侧边栏添加近期文章板块</title>
+    <link href="https://i-nmb.cn/Recent-articles.html"/>
+    <id>https://i-nmb.cn/Recent-articles.html</id>
+    <published>2022-05-03T02:33:52.000Z</published>
+    <updated>2022-05-03T10:03:16.032Z</updated>
+    
+    
+    <summary type="html">原本今天想再侧边栏添加一页友链网页，但是使用了网上的办法发现没法适合NexT 7.8.0，百般周折后发现是源代码不兼容&lt;/br&gt;这里我记录一下正确的做法</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="https://i-nmb.cn/tags/hexo/"/>
+    
+    <category term="NexT" scheme="https://i-nmb.cn/tags/NexT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>添加友链踩坑记录</title>
+    <link href="https://i-nmb.cn/Add-links.html"/>
+    <id>https://i-nmb.cn/Add-links.html</id>
+    <published>2022-05-02T19:11:54.000Z</published>
+    <updated>2022-05-02T19:11:36.713Z</updated>
+    
+    
+    <summary type="html">原本今天想添加一页友链网页，但是使用了网上的办法发现没法适合NexT 7.8.0，百般周折后发现是一行代码插入错误。&lt;/br&gt;这里我记录一下正确的做法</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="https://i-nmb.cn/tags/hexo/"/>
+    
+    <category term="NexT" scheme="https://i-nmb.cn/tags/NexT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>信息安全保障概述</title>
+    <link href="https://i-nmb.cn/Overview-of-information-security.html"/>
+    <id>https://i-nmb.cn/Overview-of-information-security.html</id>
+    <published>2022-04-30T11:57:49.000Z</published>
+    <updated>2022-05-01T04:01:32.212Z</updated>
+    
+    
+    <summary type="html">本章概述了信息安全保障的相关内容。信息技术发展产生的影响、信息安全发展阶段及其含义、信息安全保障基本体系框架、国内外实践概况和信息安全保障的基本工作内容&lt;/br&gt;根据 《全国计算机等级考试 三级教程 信息安全技术（高等教育出版社）》第一章 所做笔记编写</summary>
+    
+    
+    
+    
+    <category term="信息安全技术" scheme="https://i-nmb.cn/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="计算机三级" scheme="https://i-nmb.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%89%E7%BA%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机等级考试计算机三级信息安全技术总汇</title>
+    <link href="https://i-nmb.cn/Information-Security-Technology.html"/>
+    <id>https://i-nmb.cn/Information-Security-Technology.html</id>
+    <published>2022-04-30T11:55:45.000Z</published>
+    <updated>2022-04-30T19:13:22.388Z</updated>
+    
+    
+    <summary type="html">计算机等级考试计算机三级信息安全技术总汇&lt;/br&gt;根据《全国计算机等级考试 三级教程 信息安全技术（高等教育出版社）》所做笔记编写</summary>
+    
+    
+    
+    
+    <category term="信息安全技术" scheme="https://i-nmb.cn/tags/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="计算机三级" scheme="https://i-nmb.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%89%E7%BA%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>NexT主题修改侧边滚动条</title>
+    <link href="https://i-nmb.cn/scrollbar.html"/>
+    <id>https://i-nmb.cn/scrollbar.html</id>
+    <published>2022-04-29T02:02:57.000Z</published>
+    <updated>2022-04-29T02:54:55.496Z</updated>
+    
+    
+    <summary type="html">在修改侧边滚动条的时候想更改样式，但是侧边滚动条留有白底，怎么才能把他消去呢？</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="https://i-nmb.cn/tags/hexo/"/>
+    
+    <category term="NexT" scheme="https://i-nmb.cn/tags/NexT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JAVA学习知识总汇—JAVA语言基础</title>
+    <link href="https://i-nmb.cn/JAVA.html"/>
+    <id>https://i-nmb.cn/JAVA.html</id>
+    <published>2022-04-28T02:06:52.000Z</published>
+    <updated>2022-05-09T12:35:35.957Z</updated>
+    
+    
+    <summary type="html">JAVA学习知识总汇，这里提供本站Java直达的快速链接</summary>
+    
+    
+    
+    
+    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
+    
+    <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 数组—JAVA语言基础</title>
+    <link href="https://i-nmb.cn/array.html"/>
+    <id>https://i-nmb.cn/array.html</id>
+    <published>2022-04-24T02:45:43.000Z</published>
+    <updated>2022-05-09T12:36:08.941Z</updated>
+    
+    
+    <summary type="html">数组是最为常见的一种数据结构，是相同类型的用一个标识符封装到一起的基本类型数据序列或对象序列。&lt;/br&gt;（本文章参考《Java从入门到精通 第5版 明日科技》。故不采用 BY-NC-SA 许可协议）</summary>
+    
+    
+    
+    
+    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
+    
+    <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 字符串—JAVA语言基础</title>
+    <link href="https://i-nmb.cn/character-string.html"/>
+    <id>https://i-nmb.cn/character-string.html</id>
+    <published>2022-04-23T15:44:03.000Z</published>
+    <updated>2022-05-09T12:36:26.187Z</updated>
+    
+    
+    <summary type="html">字符串是Java程序中经常处理的对象，如果字符串运用得不好，将影响到程序运行的效率。&lt;/br&gt;（本文章参考《Java从入门到精通 第5版 明日科技》。故不采用 BY-NC-SA 许可协议）</summary>
+    
+    
+    
+    
+    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
+    
+    <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>流程控制—JAVA语言基础</title>
+    <link href="https://i-nmb.cn/Process-control.html"/>
+    <id>https://i-nmb.cn/Process-control.html</id>
+    <published>2022-04-23T15:04:09.000Z</published>
+    <updated>2022-05-09T12:35:18.877Z</updated>
+    
+    
+    <summary type="html">流程控制对于任何一门编程语言来说都是至关重要的，它提供了控制程序步骤的基本手段。&lt;/br&gt;（本文章参考《Java从入门到精通 第5版 明日科技》。故不采用 BY-NC-SA 许可协议）</summary>
+    
+    
+    
+    
+    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
+    
+    <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JAVA语言基础</title>
+    <link href="https://i-nmb.cn/JAVA-Foundation.html"/>
+    <id>https://i-nmb.cn/JAVA-Foundation.html</id>
+    <published>2022-04-23T06:12:34.000Z</published>
+    <updated>2022-04-30T14:28:02.027Z</updated>
+    
+    
+    <summary type="html">要掌握并熟练应用Java语言，就需要对Java语言的基础进行充分的了解。&lt;/br&gt;（本文章参考《Java从入门到精通 第5版 明日科技》。故不采用 BY-NC-SA 许可协议）</summary>
+    
+    
+    
+    
+    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
+    
+    <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-NexT主题加速运行</title>
+    <link href="https://i-nmb.cn/acceleration.html"/>
+    <id>https://i-nmb.cn/acceleration.html</id>
+    <published>2022-04-21T09:55:36.000Z</published>
+    <updated>2022-04-28T13:58:44.754Z</updated>
+    
+    
+    <summary type="html">有时候你的博客加载缓慢，可能是因为加载的本地的东西太多。</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="https://i-nmb.cn/tags/hexo/"/>
+    
+    <category term="NexT" scheme="https://i-nmb.cn/tags/NexT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2022年度SMUCTF的WP笔记</title>
+    <link href="https://i-nmb.cn/SMUCTF.html"/>
+    <id>https://i-nmb.cn/SMUCTF.html</id>
+    <published>2022-04-15T09:47:24.000Z</published>
+    <updated>2022-04-25T17:28:29.026Z</updated>
+    
+    
+    <summary type="html">福建三明学院信息工程学院网络攻防大赛（SMUCTF）是由共青团三明学院信息工程学院委员会主办、信息工程学院网络安全协会承办的一场关于网络安全技术练习的CTF夺旗赛</summary>
+    
+    
+    
+    
+    <category term="CTF" scheme="https://i-nmb.cn/tags/CTF/"/>
+    
+    <category term="WP" scheme="https://i-nmb.cn/tags/WP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>0基础学Java-使用Eclipse</title>
+    <link href="https://i-nmb.cn/Use-of-eclipse.html"/>
+    <id>https://i-nmb.cn/Use-of-eclipse.html</id>
+    <published>2022-04-10T06:58:37.000Z</published>
+    <updated>2022-04-30T14:29:39.808Z</updated>
+    
+    
+    <summary type="html">Eclipse是目前最流行的Java语言开发工具之一，本篇博客将带你使用Eclipse。</summary>
+    
+    
+    
+    
+    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
+    
+    <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Eclipse的安装</title>
+    <link href="https://i-nmb.cn/Eclipse%E7%9A%84%E6%9E%84%E5%BB%BA.html"/>
+    <id>https://i-nmb.cn/Eclipse%E7%9A%84%E6%9E%84%E5%BB%BA.html</id>
+    <published>2022-04-10T00:58:22.000Z</published>
+    <updated>2022-04-10T10:15:16.598Z</updated>
+    
+    
+    <summary type="html">Eclipse是目前最流行的Java语言开发工具之一，它具有强大的代码辅助功能，可以帮助程序开发人员自动完成语法修正、补全文字、代码修正、API提示等编码工作，从而节省大量的时间和精力。本篇文章将带你安装Eclipse</summary>
+    
+    
+    
+    
+    <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
+    
+  </entry>
+  
+</feed>
