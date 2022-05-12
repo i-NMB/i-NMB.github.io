@@ -6,7 +6,7 @@
   <link href="https://i-nmb.cn/atom.xml" rel="self"/>
   
   <link href="https://i-nmb.cn/"/>
-  <updated>2022-05-09T14:37:48.980Z</updated>
+  <updated>2022-05-12T14:51:23.238Z</updated>
   <id>https://i-nmb.cn/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>懒加载(lazyload/lozad)和Valine评论系统的头像、表情冲突</title>
+    <link href="https://i-nmb.cn/lazyload-bug.html"/>
+    <id>https://i-nmb.cn/lazyload-bug.html</id>
+    <published>2022-05-12T13:49:09.000Z</published>
+    <updated>2022-05-12T14:51:23.238Z</updated>
+    
+    
+    <summary type="html">解决lozad(懒加载)和Valine的不兼容、头像不显示的问题。</summary>
+    
+    
+    
+    
+    <category term="hexo" scheme="https://i-nmb.cn/tags/hexo/"/>
+    
+    <category term="NexT" scheme="https://i-nmb.cn/tags/NexT/"/>
+    
+    <category term="lozad" scheme="https://i-nmb.cn/tags/lozad/"/>
+    
+    <category term="Valine" scheme="https://i-nmb.cn/tags/Valine/"/>
+    
+  </entry>
   
   <entry>
     <title>Java对象和类—JAVA语言基础</title>
