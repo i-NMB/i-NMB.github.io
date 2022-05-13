@@ -249,24 +249,6 @@
       </tags>
   </entry>
   <entry>
-    <title>JAVA学习知识总汇—JAVA语言基础</title>
-    <url>/JAVA.html</url>
-    <content><![CDATA[<p><strong>（以下文章大多参考《Java从入门到精通 第5版 明日科技》。故以下文章不采用 BY-NC-SA 许可协议）</strong></p>
-<h1 id="JAVA语言基础"><a href="#JAVA语言基础" class="headerlink" title="JAVA语言基础"></a>JAVA语言基础</h1><p>要掌握并熟练应用Java语言，就需要对Java语言的基础进行充分的了解。</p>
-<p><a href="https://i-nmb.cn/JAVA-Foundation.html">JAVA语言基础 | 一些笔记-i囡漫笔 (i-nmb.cn)</a></p>
-<h1 id="流程控制"><a href="#流程控制" class="headerlink" title="流程控制"></a>流程控制</h1><p>流程控制对于任何一门编程语言来说都是至关重要的，它提供了控制程序步骤的基本手段。</p>
-<p><a href="https://i-nmb.cn/Process-control.html">流程控制 | 一些笔记-i囡漫笔 (i-nmb.cn)</a></p>
-<h1 id="字符串"><a href="#字符串" class="headerlink" title="字符串"></a>字符串</h1><p>字符串是Java程序中经常处理的对象，如果字符串运用得不好，将影响到程序运行的效率。</p>
-<p><a href="https://i-nmb.cn/character-string.html">字符串 | 一些笔记-i囡漫笔 (i-nmb.cn)</a></p>
-<h1 id="数组"><a href="#数组" class="headerlink" title="数组"></a>数组</h1><p>数组是最为常见的一种数据结构，是相同类型的用一个标识符封装到一起的基本类型数据序列或对象序列。</p>
-<p><a href="https://i-nmb.cn/array.html">数组 | 一些笔记-i囡漫笔 (i-nmb.cn)</a></p>
-]]></content>
-      <tags>
-        <tag>Eclipse</tag>
-        <tag>Java</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>JAVA语言基础</title>
     <url>/JAVA-Foundation.html</url>
     <content><![CDATA[<p>通过阅读本篇，您可以：<br>　了解Java主类结构</p>
@@ -556,6 +538,24 @@
       </tags>
   </entry>
   <entry>
+    <title>JAVA学习知识总汇—JAVA语言基础</title>
+    <url>/JAVA.html</url>
+    <content><![CDATA[<p><strong>（以下文章大多参考《Java从入门到精通 第5版 明日科技》。故以下文章不采用 BY-NC-SA 许可协议）</strong></p>
+<h1 id="JAVA语言基础"><a href="#JAVA语言基础" class="headerlink" title="JAVA语言基础"></a>JAVA语言基础</h1><p>要掌握并熟练应用Java语言，就需要对Java语言的基础进行充分的了解。</p>
+<p><a href="https://i-nmb.cn/JAVA-Foundation.html">JAVA语言基础 | 一些笔记-i囡漫笔 (i-nmb.cn)</a></p>
+<h1 id="流程控制"><a href="#流程控制" class="headerlink" title="流程控制"></a>流程控制</h1><p>流程控制对于任何一门编程语言来说都是至关重要的，它提供了控制程序步骤的基本手段。</p>
+<p><a href="https://i-nmb.cn/Process-control.html">流程控制 | 一些笔记-i囡漫笔 (i-nmb.cn)</a></p>
+<h1 id="字符串"><a href="#字符串" class="headerlink" title="字符串"></a>字符串</h1><p>字符串是Java程序中经常处理的对象，如果字符串运用得不好，将影响到程序运行的效率。</p>
+<p><a href="https://i-nmb.cn/character-string.html">字符串 | 一些笔记-i囡漫笔 (i-nmb.cn)</a></p>
+<h1 id="数组"><a href="#数组" class="headerlink" title="数组"></a>数组</h1><p>数组是最为常见的一种数据结构，是相同类型的用一个标识符封装到一起的基本类型数据序列或对象序列。</p>
+<p><a href="https://i-nmb.cn/array.html">数组 | 一些笔记-i囡漫笔 (i-nmb.cn)</a></p>
+]]></content>
+      <tags>
+        <tag>Eclipse</tag>
+        <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>信息安全保障概述</title>
     <url>/Overview-of-information-security.html</url>
     <content><![CDATA[<p>本章概述了信息安全保障的相关内容。“信息安全保障背景”部分介绍了信息技术发展的各个阶段及其对社会产生的影响；“信息安全保障基础”部分讲述了信息安全发展阶段以及信息安全的含义、问题根源及其在社会中的地位和作用；“信息安全保障体系”部分讲解了信息安全保障基本体系框架，并详细阐述了典型的P2DR安全模型和IATF框架的基本原理；“信息安全保障基本实践”部分讲述了国内外实践概况和信息安全保障的基本工作内容</p>
@@ -709,6 +709,49 @@
       </tags>
   </entry>
   <entry>
+    <title>在NexT的侧边栏添加近期文章板块</title>
+    <url>/Recent-articles.html</url>
+    <content><![CDATA[<p>最近听说内链可以改善SEO，于是乎，我想在NexT的侧边栏添加近期文章板块</p>
+<p>在网络上查找的方案大致如下</p>
+<h2 id="第一种方法"><a href="#第一种方法" class="headerlink" title="第一种方法"></a>第一种方法</h2><figure class="highlight swift"><table><tr><td class="code"><pre><span class="line">&#123;<span class="operator">%</span> <span class="keyword">if</span> theme.recent_posts <span class="operator">%</span>&#125;</span><br><span class="line">    <span class="operator">&lt;</span>div <span class="keyword">class</span>=&quot;<span class="title class_">links</span>-<span class="title class_">of</span>-<span class="title class_">blogroll</span> <span class="title class_">motion</span>-<span class="title class_">element</span> &#123;&#123; <span class="string">&quot;links-of-blogroll-&quot;</span> <span class="operator">+</span> theme.recent_posts_layout  &#125;&#125;<span class="string">&quot;&gt;</span></span><br><span class="line"><span class="string">      &lt;div class=&quot;</span>links<span class="operator">-</span>of<span class="operator">-</span>blogroll<span class="operator">-</span>title<span class="string">&quot;&gt;</span></span><br><span class="line"><span class="string">        &lt;!-- modify icon to fire by szw --&gt;</span></span><br><span class="line"><span class="string">        &lt;i class=&quot;</span>fa fa<span class="operator">-</span>history fa<span class="operator">-</span>&#123;&#123; theme.recent_posts_icon <span class="operator">|</span> lower &#125;&#125;<span class="string">&quot; aria-hidden=&quot;</span><span class="literal">true</span><span class="string">&quot;&gt;&lt;/i&gt;</span></span><br><span class="line"><span class="string">        &#123;&#123; theme.recent_posts_title &#125;&#125;</span></span><br><span class="line"><span class="string">      &lt;/div&gt;</span></span><br><span class="line"><span class="string">      &lt;ul class=&quot;</span>links<span class="operator">-</span>of<span class="operator">-</span>blogroll<span class="operator">-</span>list<span class="string">&quot;&gt;</span></span><br><span class="line"><span class="string">        &#123;% set posts = site.posts.sort(&#x27;-date&#x27;) %&#125;</span></span><br><span class="line"><span class="string">        &#123;% for post in posts.slice(&#x27;0&#x27;, &#x27;5&#x27;) %&#125;</span></span><br><span class="line"><span class="string">          &lt;li&gt;</span></span><br><span class="line"><span class="string">            &lt;a href=&quot;</span>&#123;&#123; url_for(post.path) &#125;&#125;<span class="string">&quot; title=&quot;</span>&#123;&#123; post.title &#125;&#125;<span class="string">&quot; target=&quot;</span>_blank<span class="string">&quot;&gt;&#123;&#123; post.title &#125;&#125;&lt;/a&gt;</span></span><br><span class="line"><span class="string">          &lt;/li&gt;</span></span><br><span class="line"><span class="string">        &#123;% endfor %&#125;</span></span><br><span class="line"><span class="string">      &lt;/ul&gt;</span></span><br><span class="line"><span class="string">    &lt;/div&gt;</span></span><br><span class="line"><span class="string">&#123;% endif %&#125;</span></span><br></pre></td></tr></table></figure>
+
+<p>将此代码贴在<code>next/layout/macro/sidebar.swig</code>中的<code>if theme.links</code>对应的<code>endif</code>后面<br>为了配置方便，在主题的<code>config.yml</code>中添加了几个变量，如下：</p>
+<figure class="highlight swift"><table><tr><td class="code"><pre><span class="line">recent_posts_title: 近期文章</span><br><span class="line">recent_posts_layout: block</span><br><span class="line">recent_posts: <span class="literal">true</span></span><br></pre></td></tr></table></figure>
+
+
+
+<p>以上操作之后NexT 7.8.0在侧边栏有“近期文章”的文字标志。但是没有链接。</p>
+<p>于是我换了另外一种办法，基于NexT 8.X</p>
+<h2 id="第二种办法"><a href="#第二种办法" class="headerlink" title="第二种办法"></a>第二种办法</h2><ol>
+<li>新建 source&#x2F;_data&#x2F;sidebar.njk 文件，内容如下：</li>
+</ol>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">&#123;<span class="comment"># RecentPosts #&#125;</span></span><br><span class="line">&#123;%- <span class="keyword">if</span> theme.recent_posts %&#125;</span><br><span class="line">  &lt;div class=<span class="string">&quot;links-of-recent-posts motion-element&quot;</span>&gt;</span><br><span class="line">    &lt;div class=<span class="string">&quot;links-of-recent-posts-title&quot;</span>&gt;</span><br><span class="line">      &#123;%- <span class="keyword">if</span> theme.recent_posts.icon %&#125;</span><br><span class="line">      &lt;i class=<span class="string">&quot;&#123;&#123; theme.recent_posts.icon &#125;&#125; fa-fw&quot;</span>&gt;&lt;/i&gt;</span><br><span class="line">      &#123;%- endif %&#125;</span><br><span class="line">      &#123;&#123; theme.recent_posts.title &#125;&#125;</span><br><span class="line">    &lt;/div&gt;</span><br><span class="line">    &lt;ul class=<span class="string">&quot;links-of-recent-posts-list&quot;</span>&gt;</span><br><span class="line">      &#123;%- <span class="built_in">set</span> posts = site.posts.sort(<span class="string">&#x27;date&#x27;</span>, <span class="string">&#x27;desc&#x27;</span>).toArray() %&#125;</span><br><span class="line">      &#123;%- <span class="keyword">for</span> post <span class="keyword">in</span> posts.slice(<span class="string">&#x27;0&#x27;</span>, theme.recent_posts.max_count) %&#125;</span><br><span class="line">        &lt;li class=<span class="string">&quot;links-of-recent-posts-item&quot;</span>&gt;</span><br><span class="line">          &#123;&#123; next_url(post.path, post.title, &#123;title: post.path&#125;) &#125;&#125;</span><br><span class="line">        &lt;/li&gt;</span><br><span class="line">      &#123;%- endfor %&#125;</span><br><span class="line">    &lt;/ul&gt;</span><br><span class="line">  &lt;/div&gt;</span><br><span class="line">&#123;%- endif %&#125;</span><br></pre></td></tr></table></figure>
+
+<p>2.修改config.next.yml，取消 custom_file_path 中的 sidebar 和 style 两个注释，并新增 recent_posts 内容。</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">custom_file_path:</span></span><br><span class="line">  <span class="comment">#head: source/_data/head.swig</span></span><br><span class="line">  <span class="comment">#header: source/_data/header.swig</span></span><br><span class="line">  <span class="attr">sidebar:</span> <span class="string">source/_data/sidebar.njk</span></span><br><span class="line">  <span class="comment">#postMeta: source/_data/post-meta.swig</span></span><br><span class="line">  <span class="comment">#postBodyEnd: source/_data/post-body-end.swig</span></span><br><span class="line">  <span class="comment">#footer: source/_data/footer.swig</span></span><br><span class="line">  <span class="comment">#bodyEnd: source/_data/body-end.swig</span></span><br><span class="line">  <span class="comment">#variable: source/_data/variables.styl</span></span><br><span class="line">  <span class="comment">#mixin: source/_data/mixins.styl</span></span><br><span class="line">  <span class="attr">style:</span> <span class="string">source/_data/styles.styl</span></span><br><span class="line"></span><br><span class="line"><span class="attr">recent_posts:</span></span><br><span class="line"><span class="comment"># 块标题</span></span><br><span class="line">  <span class="attr">title:</span> <span class="string">最近文章</span></span><br><span class="line"><span class="comment"># 图标</span></span><br><span class="line">  <span class="attr">icon:</span> <span class="string">fa</span> <span class="string">fa-history</span></span><br><span class="line"><span class="comment"># 最多多少文章链接</span></span><br><span class="line">  <span class="attr">max_count:</span> <span class="number">5</span></span><br></pre></td></tr></table></figure>
+
+<p>3.修改 source&#x2F;_data&#x2F;styles.styl 文件，文件不存在新建即可。添加如下代码：</p>
+<figure class="highlight css"><table><tr><td class="code"><pre><span class="line">// 近期文章</span><br><span class="line"><span class="selector-class">.links-of-recent-posts</span></span><br><span class="line">  <span class="attribute">font-size</span>: <span class="number">0.8125em</span></span><br><span class="line">  margin-top: <span class="number">10px</span></span><br><span class="line"></span><br><span class="line">.links-of-recent-posts-title</span><br><span class="line">  font-size: <span class="number">1.03em</span></span><br><span class="line">  font-weight: <span class="number">600</span></span><br><span class="line">  margin-top: <span class="number">0</span></span><br><span class="line"></span><br><span class="line">.links-of-recent-posts-list</span><br><span class="line">  list-style: none</span><br><span class="line">  margin: <span class="number">0</span></span><br><span class="line">  padding: <span class="number">0</span></span><br></pre></td></tr></table></figure>
+
+
+
+<p>然后发现这个只在站点概括中，在文章目录中不存在</p>
+<img data-src="https://inmb.oss-cn-shenzhen.aliyuncs.com/inmb/image-20220503170621133.png" alt="只在站点概括中" style="zoom:50%;" />
+
+<img data-src="https://inmb.oss-cn-shenzhen.aliyuncs.com/inmb/image-20220503170947135.png" alt="在文章目录中没有显示" style="zoom:60%;" />
+
+<p>因为大多数访客是不会主动点击站点概括的，那么如何把近期文章板块加入到文章目录的侧边栏中去呢？</p>
+<p>我结合了第一种方法</p>
+<p>因为第一种办法，能够在目录中显示近期文章四个字，那么说明第一种方法可行，但是可能已经过时或者是笔者配置不正确。</p>
+<h2 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h2><p>把上面新建的<code>sidebar.njk</code>代码复制在<code>next/layout/_macro/sidebar.swig</code>中的适应位置，如果没有修改添加过其他板块，可以在<code>&#123;%- if theme.back2top.enable and theme.back2top.sidebar %&#125;</code>的前面粘贴</p>
+<p>因为本博客添加了tag云，所以笔者放在了&#96;</p>
+]]></content>
+      <tags>
+        <tag>hexo</tag>
+        <tag>NexT</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2022年度SMUCTF的WP笔记</title>
     <url>/SMUCTF.html</url>
     <content><![CDATA[<p>福建三明学院信息工程学院网络攻防大赛（SMUCTF）是由共青团三明学院信息工程学院委员会主办、信息工程学院网络安全协会承办的一场关于网络安全技术练习的CTF夺旗赛。</p>
@@ -857,49 +900,6 @@
       </tags>
   </entry>
   <entry>
-    <title>在NexT的侧边栏添加近期文章板块</title>
-    <url>/Recent-articles.html</url>
-    <content><![CDATA[<p>最近听说内链可以改善SEO，于是乎，我想在NexT的侧边栏添加近期文章板块</p>
-<p>在网络上查找的方案大致如下</p>
-<h2 id="第一种方法"><a href="#第一种方法" class="headerlink" title="第一种方法"></a>第一种方法</h2><figure class="highlight swift"><table><tr><td class="code"><pre><span class="line">&#123;<span class="operator">%</span> <span class="keyword">if</span> theme.recent_posts <span class="operator">%</span>&#125;</span><br><span class="line">    <span class="operator">&lt;</span>div <span class="keyword">class</span>=&quot;<span class="title class_">links</span>-<span class="title class_">of</span>-<span class="title class_">blogroll</span> <span class="title class_">motion</span>-<span class="title class_">element</span> &#123;&#123; <span class="string">&quot;links-of-blogroll-&quot;</span> <span class="operator">+</span> theme.recent_posts_layout  &#125;&#125;<span class="string">&quot;&gt;</span></span><br><span class="line"><span class="string">      &lt;div class=&quot;</span>links<span class="operator">-</span>of<span class="operator">-</span>blogroll<span class="operator">-</span>title<span class="string">&quot;&gt;</span></span><br><span class="line"><span class="string">        &lt;!-- modify icon to fire by szw --&gt;</span></span><br><span class="line"><span class="string">        &lt;i class=&quot;</span>fa fa<span class="operator">-</span>history fa<span class="operator">-</span>&#123;&#123; theme.recent_posts_icon <span class="operator">|</span> lower &#125;&#125;<span class="string">&quot; aria-hidden=&quot;</span><span class="literal">true</span><span class="string">&quot;&gt;&lt;/i&gt;</span></span><br><span class="line"><span class="string">        &#123;&#123; theme.recent_posts_title &#125;&#125;</span></span><br><span class="line"><span class="string">      &lt;/div&gt;</span></span><br><span class="line"><span class="string">      &lt;ul class=&quot;</span>links<span class="operator">-</span>of<span class="operator">-</span>blogroll<span class="operator">-</span>list<span class="string">&quot;&gt;</span></span><br><span class="line"><span class="string">        &#123;% set posts = site.posts.sort(&#x27;-date&#x27;) %&#125;</span></span><br><span class="line"><span class="string">        &#123;% for post in posts.slice(&#x27;0&#x27;, &#x27;5&#x27;) %&#125;</span></span><br><span class="line"><span class="string">          &lt;li&gt;</span></span><br><span class="line"><span class="string">            &lt;a href=&quot;</span>&#123;&#123; url_for(post.path) &#125;&#125;<span class="string">&quot; title=&quot;</span>&#123;&#123; post.title &#125;&#125;<span class="string">&quot; target=&quot;</span>_blank<span class="string">&quot;&gt;&#123;&#123; post.title &#125;&#125;&lt;/a&gt;</span></span><br><span class="line"><span class="string">          &lt;/li&gt;</span></span><br><span class="line"><span class="string">        &#123;% endfor %&#125;</span></span><br><span class="line"><span class="string">      &lt;/ul&gt;</span></span><br><span class="line"><span class="string">    &lt;/div&gt;</span></span><br><span class="line"><span class="string">&#123;% endif %&#125;</span></span><br></pre></td></tr></table></figure>
-
-<p>将此代码贴在<code>next/layout/macro/sidebar.swig</code>中的<code>if theme.links</code>对应的<code>endif</code>后面<br>为了配置方便，在主题的<code>config.yml</code>中添加了几个变量，如下：</p>
-<figure class="highlight swift"><table><tr><td class="code"><pre><span class="line">recent_posts_title: 近期文章</span><br><span class="line">recent_posts_layout: block</span><br><span class="line">recent_posts: <span class="literal">true</span></span><br></pre></td></tr></table></figure>
-
-
-
-<p>以上操作之后NexT 7.8.0在侧边栏有“近期文章”的文字标志。但是没有链接。</p>
-<p>于是我换了另外一种办法，基于NexT 8.X</p>
-<h2 id="第二种办法"><a href="#第二种办法" class="headerlink" title="第二种办法"></a>第二种办法</h2><ol>
-<li>新建 source&#x2F;_data&#x2F;sidebar.njk 文件，内容如下：</li>
-</ol>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">&#123;<span class="comment"># RecentPosts #&#125;</span></span><br><span class="line">&#123;%- <span class="keyword">if</span> theme.recent_posts %&#125;</span><br><span class="line">  &lt;div class=<span class="string">&quot;links-of-recent-posts motion-element&quot;</span>&gt;</span><br><span class="line">    &lt;div class=<span class="string">&quot;links-of-recent-posts-title&quot;</span>&gt;</span><br><span class="line">      &#123;%- <span class="keyword">if</span> theme.recent_posts.icon %&#125;</span><br><span class="line">      &lt;i class=<span class="string">&quot;&#123;&#123; theme.recent_posts.icon &#125;&#125; fa-fw&quot;</span>&gt;&lt;/i&gt;</span><br><span class="line">      &#123;%- endif %&#125;</span><br><span class="line">      &#123;&#123; theme.recent_posts.title &#125;&#125;</span><br><span class="line">    &lt;/div&gt;</span><br><span class="line">    &lt;ul class=<span class="string">&quot;links-of-recent-posts-list&quot;</span>&gt;</span><br><span class="line">      &#123;%- <span class="built_in">set</span> posts = site.posts.sort(<span class="string">&#x27;date&#x27;</span>, <span class="string">&#x27;desc&#x27;</span>).toArray() %&#125;</span><br><span class="line">      &#123;%- <span class="keyword">for</span> post <span class="keyword">in</span> posts.slice(<span class="string">&#x27;0&#x27;</span>, theme.recent_posts.max_count) %&#125;</span><br><span class="line">        &lt;li class=<span class="string">&quot;links-of-recent-posts-item&quot;</span>&gt;</span><br><span class="line">          &#123;&#123; next_url(post.path, post.title, &#123;title: post.path&#125;) &#125;&#125;</span><br><span class="line">        &lt;/li&gt;</span><br><span class="line">      &#123;%- endfor %&#125;</span><br><span class="line">    &lt;/ul&gt;</span><br><span class="line">  &lt;/div&gt;</span><br><span class="line">&#123;%- endif %&#125;</span><br></pre></td></tr></table></figure>
-
-<p>2.修改config.next.yml，取消 custom_file_path 中的 sidebar 和 style 两个注释，并新增 recent_posts 内容。</p>
-<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">custom_file_path:</span></span><br><span class="line">  <span class="comment">#head: source/_data/head.swig</span></span><br><span class="line">  <span class="comment">#header: source/_data/header.swig</span></span><br><span class="line">  <span class="attr">sidebar:</span> <span class="string">source/_data/sidebar.njk</span></span><br><span class="line">  <span class="comment">#postMeta: source/_data/post-meta.swig</span></span><br><span class="line">  <span class="comment">#postBodyEnd: source/_data/post-body-end.swig</span></span><br><span class="line">  <span class="comment">#footer: source/_data/footer.swig</span></span><br><span class="line">  <span class="comment">#bodyEnd: source/_data/body-end.swig</span></span><br><span class="line">  <span class="comment">#variable: source/_data/variables.styl</span></span><br><span class="line">  <span class="comment">#mixin: source/_data/mixins.styl</span></span><br><span class="line">  <span class="attr">style:</span> <span class="string">source/_data/styles.styl</span></span><br><span class="line"></span><br><span class="line"><span class="attr">recent_posts:</span></span><br><span class="line"><span class="comment"># 块标题</span></span><br><span class="line">  <span class="attr">title:</span> <span class="string">最近文章</span></span><br><span class="line"><span class="comment"># 图标</span></span><br><span class="line">  <span class="attr">icon:</span> <span class="string">fa</span> <span class="string">fa-history</span></span><br><span class="line"><span class="comment"># 最多多少文章链接</span></span><br><span class="line">  <span class="attr">max_count:</span> <span class="number">5</span></span><br></pre></td></tr></table></figure>
-
-<p>3.修改 source&#x2F;_data&#x2F;styles.styl 文件，文件不存在新建即可。添加如下代码：</p>
-<figure class="highlight css"><table><tr><td class="code"><pre><span class="line">// 近期文章</span><br><span class="line"><span class="selector-class">.links-of-recent-posts</span></span><br><span class="line">  <span class="attribute">font-size</span>: <span class="number">0.8125em</span></span><br><span class="line">  margin-top: <span class="number">10px</span></span><br><span class="line"></span><br><span class="line">.links-of-recent-posts-title</span><br><span class="line">  font-size: <span class="number">1.03em</span></span><br><span class="line">  font-weight: <span class="number">600</span></span><br><span class="line">  margin-top: <span class="number">0</span></span><br><span class="line"></span><br><span class="line">.links-of-recent-posts-list</span><br><span class="line">  list-style: none</span><br><span class="line">  margin: <span class="number">0</span></span><br><span class="line">  padding: <span class="number">0</span></span><br></pre></td></tr></table></figure>
-
-
-
-<p>然后发现这个只在站点概括中，在文章目录中不存在</p>
-<img data-src="https://inmb.oss-cn-shenzhen.aliyuncs.com/inmb/image-20220503170621133.png" alt="只在站点概括中" style="zoom:50%;" />
-
-<img data-src="https://inmb.oss-cn-shenzhen.aliyuncs.com/inmb/image-20220503170947135.png" alt="在文章目录中没有显示" style="zoom:60%;" />
-
-<p>因为大多数访客是不会主动点击站点概括的，那么如何把近期文章板块加入到文章目录的侧边栏中去呢？</p>
-<p>我结合了第一种方法</p>
-<p>因为第一种办法，能够在目录中显示近期文章四个字，那么说明第一种方法可行，但是可能已经过时或者是笔者配置不正确。</p>
-<h2 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h2><p>把上面新建的<code>sidebar.njk</code>代码复制在<code>next/layout/_macro/sidebar.swig</code>中的适应位置，如果没有修改添加过其他板块，可以在<code>&#123;%- if theme.back2top.enable and theme.back2top.sidebar %&#125;</code>的前面粘贴</p>
-<p>因为本博客添加了tag云，所以笔者放在了&#96;</p>
-]]></content>
-      <tags>
-        <tag>hexo</tag>
-        <tag>NexT</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>0基础学Java-使用Eclipse</title>
     <url>/Use-of-eclipse.html</url>
     <content><![CDATA[<p>Eclipse是目前最流行的Java语言开发工具之一，它具有强大的代码辅助功能，可以帮助程序开发人员自动完成语法修正、补全文字、代码修正、API提示等编码工作，从而节省 大量的时间和精力。</p>
@@ -978,6 +978,50 @@
       <tags>
         <tag>Eclipse</tag>
         <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo-NexT主题加速运行</title>
+    <url>/acceleration.html</url>
+    <content><![CDATA[<h2 id="删繁就简"><a href="#删繁就简" class="headerlink" title="删繁就简"></a>删繁就简</h2><p>去掉一些不必要的、花里胡哨的功能，这个可能要关掉pace、canvas_lines、tag-icon等，安心留田种地。</p>
+<h2 id="使用CDN加载部分css、js"><a href="#使用CDN加载部分css、js" class="headerlink" title="使用CDN加载部分css、js"></a>使用CDN加载部分css、js</h2><p>当我使用FancyBox进行图片放大的时候，每次在F12中看到FancyBox的加载速度十分缓慢，因为他都要调用托管地方的文件，这时候可能需要引用外部响应速度（下载速度）比我们自己站点更好的，而jsdelivr就可以完美解决这一问题</p>
+<p>在<code>Blog/themes/next/_config.yml</code>中搜索<code>jsdelivr</code>，让这些外部资源加载使用jsDeliver</p>
+<p><img data-src="https://img.i-nmb.cn/inmb/image-20220419180337404.png" alt="image-20220419180337404"></p>
+<img data-src="https://img.i-nmb.cn/inmb/image-20220419180547954.png" alt="例如" style="zoom:67%;" />
+
+<h2 id="插件介绍"><a href="#插件介绍" class="headerlink" title="插件介绍"></a>插件介绍</h2><p>下列是对一些在_config.yml配置中提供CDN加载的插件介绍，如果你使用或者需要这些插件你可以直接把他前面的 # 删去即可使用，不必再将他下载到本地再上传并且不必让他在自己的站中缓慢加载、消耗流量。</p>
+<h3 id="anime："><a href="#anime：" class="headerlink" title="anime："></a>anime：</h3><p>anime.js 是一个简便的JS动画库，用法简单而且适用范围广，涵盖CSS，DOM，SVG还有JS的对象，各种带数值属性的东西都可以动起来。</p>
+<p>实际演示和代码，官网写得很详细清楚了</p>
+<p>官网：<a href="https://www.animejs.cn/documentation/#remove">中文文档 | anime.js (animejs.cn)</a></p>
+<h3 id="fontawesome："><a href="#fontawesome：" class="headerlink" title="fontawesome："></a>fontawesome：</h3><p><a href="http://www.baidu.com/link?url=0KewDfaGONrnAvIw-Pge0uEsjHWhiV8cB0vKPwhlN-VJa1NkcBKorHbZQauXaZLZ">Font Awesome,一套绝佳的图标字体库和CSS框架</a></p>
+<h3 id="MathJax："><a href="#MathJax：" class="headerlink" title="MathJax："></a>MathJax：</h3><p>在页面有很多情况需要显示公式，但在单纯在页面显示是不能达到效果的，因此需要MathJax的编译。</p>
+<h3 id="KaTeX"><a href="#KaTeX" class="headerlink" title="KaTeX"></a>KaTeX</h3><p>通过KaTeX插件，您可以在网站上使用最快的<a href="https://github.com/Khan/KaTeX">TeX数学排版引擎</a></p>
+<h3 id="pjax"><a href="#pjax" class="headerlink" title="pjax"></a>pjax</h3><p>pjax是一个jQuery插件，它通过ajax和pushState技术提供了极速的（无刷新ajax加载）浏览体验，并且保持了真实的地址、网页标题，浏览器的后退（前进）按钮也可以正常使用。</p>
+<p>pjax的工作原理是通过ajax从服务器端获取HTML，在页面中用获取到的HTML替换指定容器元素中的内容。然后使用pushState技术更新浏览器地址栏中的当前地址。</p>
+<p>以下两点原因决定了pjax会有更快的浏览体验：</p>
+<p>1.不存在页面资源（js&#x2F;css）的重复加载和应用；</p>
+<p>2.如果服务器端配置了pjax，它可以只渲染页面局部内容，从而避免服务器渲染完整布局的额外开销。</p>
+<h4 id="建议开启pjax"><a href="#建议开启pjax" class="headerlink" title="建议开启pjax"></a>建议开启pjax</h4><p>使用<em>pjax</em> 实现网站无刷新加载</p>
+<h4 id="开启pjax"><a href="#开启pjax" class="headerlink" title="开启pjax"></a>开启pjax</h4><p>pjax的开启很简单，我们只需要用CDN加载pjax（去掉链接前面的#，并且在原pjax前加上#，如下图），然后在主题配置中找到pjax设置<code>pjax: true</code>。</p>
+<p><img data-src="https://img.i-nmb.cn/inmb/image-20220419182954415.png" alt="image-20220419182954415"></p>
+<p>使用pjax，你甚至可以给<a href="https://blog.csdn.net/Qxiaofei_/article/details/123072610">Next主题添加全局播放翻页不间断的网易云音乐</a>；</p>
+<h3 id="FancyBox"><a href="#FancyBox" class="headerlink" title="FancyBox"></a>FancyBox</h3><p>支持对放大的图片添加阴影效果，对于一组相关的图片添加导航操作按纽。</p>
+<h3 id="Medium-zoom"><a href="#Medium-zoom" class="headerlink" title="Medium-zoom"></a>Medium-zoom</h3><p>想为自己网站的文章图片添加缩放的效果,可以选择使用<em>medium-zoom</em>这个插件</p>
+<h3 id="Lazy-Load"><a href="#Lazy-Load" class="headerlink" title="Lazy Load"></a>Lazy Load</h3><p>Lazy Load延迟加载图像插件,直到用户滚动到它们才显示!</p>
+<p>lazyload 是网站常用的技术，通过按需加载，避免一次性加载过多内容导致的打开缓慢</p>
+<h3 id="Pangu"><a href="#Pangu" class="headerlink" title="Pangu"></a>Pangu</h3><p>对于强迫症来说，中英文混排时加上空格能很大程度改善阅读体验，但是有时候会不小心打漏部分空格，而 <a href="https://github.com/vinta/pangu.js">pangu</a> 这个项目就可以帮你在展示时自动加上空格</p>
+<h3 id="Quicklink"><a href="#Quicklink" class="headerlink" title="Quicklink"></a>Quicklink</h3><p>可以在空闲时间预获取页面可视区域（以下简称视区）内的链接，加快后续加载速度。</p>
+<h3 id="DisqusJS"><a href="#DisqusJS" class="headerlink" title="DisqusJS"></a>DisqusJS</h3><p><em>DisqusJS</em>:使用DisqusAPI在中国大陆呈现Disqus评论</p>
+<h3 id="Valine"><a href="#Valine" class="headerlink" title="Valine"></a>Valine</h3><p>Valine - 一款快速、简洁且高效的无后端评论系统。</p>
+<h3 id="Gitalk"><a href="#Gitalk" class="headerlink" title="Gitalk"></a>Gitalk</h3><p> Gitalk 是一个基于 GitHub Issue 和 Preact 开发的评论插件</p>
+<h3 id="Algolia-Search"><a href="#Algolia-Search" class="headerlink" title="Algolia Search"></a>Algolia Search</h3><p>Algolia 搜索插件，懂的都懂</p>
+<h3 id="Mermaid"><a href="#Mermaid" class="headerlink" title="Mermaid"></a>Mermaid</h3><p>绘图插件–mermaid</p>
+<h3 id="Velocity"><a href="#Velocity" class="headerlink" title="Velocity"></a>Velocity</h3><h3 id="Pace"><a href="#Pace" class="headerlink" title="Pace"></a>Pace</h3><p>通过使用pace,我们可以展示网页进度条加载效果。</p>
+<h3 id="canvas-ribbon"><a href="#canvas-ribbon" class="headerlink" title="canvas_ribbon"></a>canvas_ribbon</h3><p>背景彩带动画</p>
+]]></content>
+      <tags>
+        <tag>hexo</tag>
+        <tag>NexT</tag>
       </tags>
   </entry>
   <entry>
@@ -1157,42 +1201,6 @@
       <tags>
         <tag>Eclipse</tag>
         <tag>Java</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>懒加载(lazyload/lozad)和Valine评论系统的头像、表情冲突</title>
-    <url>/lazyload-bug.html</url>
-    <content><![CDATA[<h2 id="问题现象"><a href="#问题现象" class="headerlink" title="问题现象"></a>问题现象</h2><p>在使用lozad.js的情况下，同时使用了Valine评论系统，就会出现头像、表情不显示的问题。百度也一直找不到问题所在。</p>
-<p>如图</p>
-<img data-src="https://img1.i-nmb.cn/img/image-20220512221221660.png" alt="头像不显示" style="zoom:80%;" />
-
-<img data-src="https://img1.i-nmb.cn/img/image-20220512221511083.png" alt="表情不显示" style="zoom:80%;" />
-
-<h2 id="问题分析"><a href="#问题分析" class="headerlink" title="问题分析"></a>问题分析</h2><p>在F12开发者工具下，看到所有的src变成了data-src，导致了src没有数据</p>
-<p><img data-src="https://img1.i-nmb.cn/img/image-20220512221829449.png" alt="data-src"></p>
-<p>查看代码，发现他把src一律转换成了data-src。</p>
-<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">/*! lozad.js - v1.16.0 - 2020-09-06</span></span><br><span class="line"><span class="comment">* https://github.com/ApoorvSaxena/lozad.js</span></span><br><span class="line"><span class="comment">* Copyright (c) 2020 Apoorv Saxena; Licensed MIT */</span></span><br><span class="line">!<span class="keyword">function</span>(<span class="params">t,e</span>)&#123;<span class="string">&quot;object&quot;</span>==<span class="keyword">typeof</span> <span class="built_in">exports</span>&amp;&amp;<span class="string">&quot;undefined&quot;</span>!=<span class="keyword">typeof</span> <span class="variable language_">module</span>?<span class="variable language_">module</span>.<span class="property">exports</span>=<span class="title function_">e</span>():<span class="string">&quot;function&quot;</span>==<span class="keyword">typeof</span> define&amp;&amp;define.<span class="property">amd</span>?<span class="title function_">define</span>(e):t.<span class="property">lozad</span>=<span class="title function_">e</span>()&#125;(<span class="variable language_">this</span>,<span class="keyword">function</span>(<span class="params"></span>)&#123;<span class="string">&quot;use strict&quot;</span>;</span><br><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment">   * Detect IE browser</span></span><br><span class="line"><span class="comment">   * <span class="doctag">@const</span> &#123;<span class="type">boolean</span>&#125;</span></span><br><span class="line"><span class="comment">   * <span class="doctag">@private</span></span></span><br><span class="line"><span class="comment">   */</span><span class="keyword">var</span> g=<span class="string">&quot;undefined&quot;</span>!=<span class="keyword">typeof</span> <span class="variable language_">document</span>&amp;&amp;<span class="variable language_">document</span>.<span class="property">documentMode</span>,f=&#123;<span class="attr">rootMargin</span>:<span class="string">&quot;0px&quot;</span>,<span class="attr">threshold</span>:<span class="number">0</span>,<span class="attr">load</span>:<span class="keyword">function</span>(<span class="params">t</span>)&#123;<span class="keyword">if</span>(<span class="string">&quot;picture&quot;</span>===t.<span class="property">nodeName</span>.<span class="title function_">toLowerCase</span>())&#123;<span class="keyword">var</span> e=t.<span class="title function_">querySelector</span>(<span class="string">&quot;img&quot;</span>),r=!<span class="number">1</span>;<span class="literal">null</span>===e&amp;&amp;(e=<span class="variable language_">document</span>.<span class="title function_">createElement</span>(<span class="string">&quot;img&quot;</span>),r=!<span class="number">0</span>),g&amp;&amp;t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-iesrc&quot;</span>)&amp;&amp;(e.<span class="property">src</span>=t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-iesrc&quot;</span>)),t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-alt&quot;</span>)&amp;&amp;(e.<span class="property">alt</span>=t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-alt&quot;</span>)),r&amp;&amp;t.<span class="title function_">append</span>(e)&#125;<span class="keyword">if</span>(<span class="string">&quot;video&quot;</span>===t.<span class="property">nodeName</span>.<span class="title function_">toLowerCase</span>()&amp;&amp;!t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-src&quot;</span>)&amp;&amp;t.<span class="property">children</span>)&#123;<span class="keyword">for</span>(<span class="keyword">var</span> a=t.<span class="property">children</span>,o=<span class="keyword">void</span> <span class="number">0</span>,i=<span class="number">0</span>;i&lt;=a.<span class="property">length</span>-<span class="number">1</span>;i++)(o=a[i].<span class="title function_">getAttribute</span>(<span class="string">&quot;data-src&quot;</span>))&amp;&amp;(a[i].<span class="property">src</span>=o);t.<span class="title function_">load</span>()&#125;t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-poster&quot;</span>)&amp;&amp;(t.<span class="property">poster</span>=t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-poster&quot;</span>)),t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-src&quot;</span>)&amp;&amp;(t.<span class="property">src</span>=t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-src&quot;</span>)),t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-srcset&quot;</span>)&amp;&amp;t.<span class="title function_">setAttribute</span>(<span class="string">&quot;srcset&quot;</span>,t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-srcset&quot;</span>));<span class="keyword">var</span> n=<span class="string">&quot;,&quot;</span>;<span class="keyword">if</span>(t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-background-delimiter&quot;</span>)&amp;&amp;(n=t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-background-delimiter&quot;</span>)),t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-background-image&quot;</span>))t.<span class="property">style</span>.<span class="property">backgroundImage</span>=<span class="string">&quot;url(&#x27;&quot;</span>+t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-background-image&quot;</span>).<span class="title function_">split</span>(n).<span class="title function_">join</span>(<span class="string">&quot;&#x27;),url(&#x27;&quot;</span>)+<span class="string">&quot;&#x27;)&quot;</span>;<span class="keyword">else</span> <span class="keyword">if</span>(t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-background-image-set&quot;</span>))&#123;<span class="keyword">var</span> d=t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-background-image-set&quot;</span>).<span class="title function_">split</span>(n),u=d[<span class="number">0</span>].<span class="title function_">substr</span>(<span class="number">0</span>,d[<span class="number">0</span>].<span class="title function_">indexOf</span>(<span class="string">&quot; &quot;</span>))||d[<span class="number">0</span>];<span class="comment">// Substring before ... 1x</span></span><br><span class="line">u=-<span class="number">1</span>===u.<span class="title function_">indexOf</span>(<span class="string">&quot;url(&quot;</span>)?<span class="string">&quot;url(&quot;</span>+u+<span class="string">&quot;)&quot;</span>:u,<span class="number">1</span>===d.<span class="property">length</span>?t.<span class="property">style</span>.<span class="property">backgroundImage</span>=<span class="attr">u</span>:t.<span class="title function_">setAttribute</span>(<span class="string">&quot;style&quot;</span>,(t.<span class="title function_">getAttribute</span>(<span class="string">&quot;style&quot;</span>)||<span class="string">&quot;&quot;</span>)+<span class="string">&quot;background-image: &quot;</span>+u+<span class="string">&quot;; background-image: -webkit-image-set(&quot;</span>+d+<span class="string">&quot;); background-image: image-set(&quot;</span>+d+<span class="string">&quot;)&quot;</span>)&#125;t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-toggle-class&quot;</span>)&amp;&amp;t.<span class="property">classList</span>.<span class="title function_">toggle</span>(t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-toggle-class&quot;</span>))&#125;,<span class="attr">loaded</span>:<span class="keyword">function</span>(<span class="params"></span>)&#123;&#125;&#125;;<span class="keyword">function</span> <span class="title function_">A</span>(<span class="params">t</span>)&#123;t.<span class="title function_">setAttribute</span>(<span class="string">&quot;data-loaded&quot;</span>,!<span class="number">0</span>)&#125;<span class="keyword">var</span> m=<span class="keyword">function</span>(<span class="params">t</span>)&#123;<span class="keyword">return</span><span class="string">&quot;true&quot;</span>===t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-loaded&quot;</span>)&#125;,v=<span class="keyword">function</span>(<span class="params">t</span>)&#123;<span class="keyword">var</span> e=<span class="number">1</span>&lt;<span class="variable language_">arguments</span>.<span class="property">length</span>&amp;&amp;<span class="keyword">void</span> <span class="number">0</span>!==<span class="variable language_">arguments</span>[<span class="number">1</span>]?<span class="variable language_">arguments</span>[<span class="number">1</span>]:<span class="variable language_">document</span>;<span class="keyword">return</span> t <span class="keyword">instanceof</span> <span class="title class_">Element</span>?[t]:t <span class="keyword">instanceof</span> <span class="title class_">NodeList</span>?<span class="attr">t</span>:e.<span class="title function_">querySelectorAll</span>(t)&#125;;<span class="keyword">return</span> <span class="keyword">function</span>(<span class="params"></span>)&#123;<span class="keyword">var</span> r,a,o=<span class="number">0</span>&lt;<span class="variable language_">arguments</span>.<span class="property">length</span>&amp;&amp;<span class="keyword">void</span> <span class="number">0</span>!==<span class="variable language_">arguments</span>[<span class="number">0</span>]?<span class="variable language_">arguments</span>[<span class="number">0</span>]:<span class="string">&quot;.lozad&quot;</span>,t=<span class="number">1</span>&lt;<span class="variable language_">arguments</span>.<span class="property">length</span>&amp;&amp;<span class="keyword">void</span> <span class="number">0</span>!==<span class="variable language_">arguments</span>[<span class="number">1</span>]?<span class="variable language_">arguments</span>[<span class="number">1</span>]:&#123;&#125;,e=<span class="title class_">Object</span>.<span class="title function_">assign</span>(&#123;&#125;,f,t),i=e.<span class="property">root</span>,n=e.<span class="property">rootMargin</span>,d=e.<span class="property">threshold</span>,u=e.<span class="property">load</span>,g=e.<span class="property">loaded</span>,s=<span class="keyword">void</span> <span class="number">0</span>;<span class="string">&quot;undefined&quot;</span>!=<span class="keyword">typeof</span> <span class="variable language_">window</span>&amp;&amp;<span class="variable language_">window</span>.<span class="property">IntersectionObserver</span>&amp;&amp;(s=<span class="keyword">new</span> <span class="title class_">IntersectionObserver</span>((r=u,a=g,<span class="keyword">function</span>(<span class="params">t,e</span>)&#123;t.<span class="title function_">forEach</span>(<span class="keyword">function</span>(<span class="params">t</span>)&#123;(<span class="number">0</span>&lt;t.<span class="property">intersectionRatio</span>||t.<span class="property">isIntersecting</span>)&amp;&amp;(e.<span class="title function_">unobserve</span>(t.<span class="property">target</span>),<span class="title function_">m</span>(t.<span class="property">target</span>)||(<span class="title function_">r</span>(t.<span class="property">target</span>),<span class="title function_">A</span>(t.<span class="property">target</span>),<span class="title function_">a</span>(t.<span class="property">target</span>)))&#125;)&#125;),&#123;<span class="attr">root</span>:i,<span class="attr">rootMargin</span>:n,<span class="attr">threshold</span>:d&#125;));<span class="keyword">for</span>(<span class="keyword">var</span> c,l=<span class="title function_">v</span>(o,i),b=<span class="number">0</span>;b&lt;l.<span class="property">length</span>;b++)(c=l[b]).<span class="title function_">getAttribute</span>(<span class="string">&quot;data-placeholder-background&quot;</span>)&amp;&amp;(c.<span class="property">style</span>.<span class="property">background</span>=c.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-placeholder-background&quot;</span>));<span class="keyword">return</span>&#123;<span class="attr">observe</span>:<span class="keyword">function</span>(<span class="params"></span>)&#123;<span class="keyword">for</span>(<span class="keyword">var</span> t=<span class="title function_">v</span>(o,i),e=<span class="number">0</span>;e&lt;t.<span class="property">length</span>;e++)<span class="title function_">m</span>(t[e])||(s?s.<span class="title function_">observe</span>(t[e]):(<span class="title function_">u</span>(t[e]),<span class="title function_">A</span>(t[e]),<span class="title function_">g</span>(t[e])))&#125;,<span class="attr">triggerLoad</span>:<span class="keyword">function</span>(<span class="params">t</span>)&#123;<span class="title function_">m</span>(t)||(<span class="title function_">u</span>(t),<span class="title function_">A</span>(t),<span class="title function_">g</span>(t))&#125;,<span class="attr">observer</span>:s&#125;&#125;&#125;);</span><br></pre></td></tr></table></figure>
-
-
-
-<p>所以我们使用<code>srcset</code>代替<code>Valine.min.js</code>中的<code>src</code></p>
-<h2 id="具体解决方法"><a href="#具体解决方法" class="headerlink" title="具体解决方法"></a>具体解决方法</h2><p>使用<code>srcset</code>代替<code>Valine.min.js</code>中的<code>src</code></p>
-<p>首先我们先下载js文件到本地：<a href="https://cdn.jsdelivr.net/npm/valine@1/dist/Valine.min.js">下载地址</a></p>
-<p>搜索<code>&lt;img</code></p>
-<p><img data-src="https://img1.i-nmb.cn/img/image-20220512223914575.png" alt="搜索&lt;img"></p>
-<p>然后在<code>&lt;img</code>后面的<code>src</code>替换为<code>srcset</code></p>
-<p>并将更改好的js放在<code>Blog\source</code>中的某个地方</p>
-<p>接下来在CDN引用的地方，修改路径为<code>/js1/Valine.min.js</code>【笔者放在Blog&#x2F;source&#x2F;js1&#x2F;Valine.min.js】</p>
-<p><img data-src="https://img1.i-nmb.cn/img/image-20220512230334642.png" alt="修改路径"></p>
-<p>然后保存，最后<code>hexo cl &amp;&amp; hexo g &amp;&amp; hexo s</code></p>
-<h2 id="问题解决"><a href="#问题解决" class="headerlink" title="问题解决"></a>问题解决</h2><p>看结果，</p>
-<p><img data-src="https://img1.i-nmb.cn/img/image-20220512224151163.png" alt="修护完成"></p>
-]]></content>
-      <tags>
-        <tag>hexo</tag>
-        <tag>NexT</tag>
-        <tag>lozad</tag>
-        <tag>Valine</tag>
       </tags>
   </entry>
   <entry>
@@ -1470,47 +1478,39 @@
       </tags>
   </entry>
   <entry>
-    <title>Hexo-NexT主题加速运行</title>
-    <url>/acceleration.html</url>
-    <content><![CDATA[<h2 id="删繁就简"><a href="#删繁就简" class="headerlink" title="删繁就简"></a>删繁就简</h2><p>去掉一些不必要的、花里胡哨的功能，这个可能要关掉pace、canvas_lines、tag-icon等，安心留田种地。</p>
-<h2 id="使用CDN加载部分css、js"><a href="#使用CDN加载部分css、js" class="headerlink" title="使用CDN加载部分css、js"></a>使用CDN加载部分css、js</h2><p>当我使用FancyBox进行图片放大的时候，每次在F12中看到FancyBox的加载速度十分缓慢，因为他都要调用托管地方的文件，这时候可能需要引用外部响应速度（下载速度）比我们自己站点更好的，而jsdelivr就可以完美解决这一问题</p>
-<p>在<code>Blog/themes/next/_config.yml</code>中搜索<code>jsdelivr</code>，让这些外部资源加载使用jsDeliver</p>
-<p><img data-src="https://img.i-nmb.cn/inmb/image-20220419180337404.png" alt="image-20220419180337404"></p>
-<img data-src="https://img.i-nmb.cn/inmb/image-20220419180547954.png" alt="例如" style="zoom:67%;" />
+    <title>懒加载(lazyload/lozad)和Valine评论系统的头像、表情冲突</title>
+    <url>/lazyload-bug.html</url>
+    <content><![CDATA[<h2 id="问题现象"><a href="#问题现象" class="headerlink" title="问题现象"></a>问题现象</h2><p>在使用lozad.js的情况下，同时使用了Valine评论系统，就会出现头像、表情不显示的问题。百度也一直找不到问题所在。</p>
+<p>如图</p>
+<img data-src="https://img1.i-nmb.cn/img/image-20220512221221660.png" alt="头像不显示" style="zoom:80%;" />
 
-<h2 id="插件介绍"><a href="#插件介绍" class="headerlink" title="插件介绍"></a>插件介绍</h2><p>下列是对一些在_config.yml配置中提供CDN加载的插件介绍，如果你使用或者需要这些插件你可以直接把他前面的 # 删去即可使用，不必再将他下载到本地再上传并且不必让他在自己的站中缓慢加载、消耗流量。</p>
-<h3 id="anime："><a href="#anime：" class="headerlink" title="anime："></a>anime：</h3><p>anime.js 是一个简便的JS动画库，用法简单而且适用范围广，涵盖CSS，DOM，SVG还有JS的对象，各种带数值属性的东西都可以动起来。</p>
-<p>实际演示和代码，官网写得很详细清楚了</p>
-<p>官网：<a href="https://www.animejs.cn/documentation/#remove">中文文档 | anime.js (animejs.cn)</a></p>
-<h3 id="fontawesome："><a href="#fontawesome：" class="headerlink" title="fontawesome："></a>fontawesome：</h3><p><a href="http://www.baidu.com/link?url=0KewDfaGONrnAvIw-Pge0uEsjHWhiV8cB0vKPwhlN-VJa1NkcBKorHbZQauXaZLZ">Font Awesome,一套绝佳的图标字体库和CSS框架</a></p>
-<h3 id="MathJax："><a href="#MathJax：" class="headerlink" title="MathJax："></a>MathJax：</h3><p>在页面有很多情况需要显示公式，但在单纯在页面显示是不能达到效果的，因此需要MathJax的编译。</p>
-<h3 id="KaTeX"><a href="#KaTeX" class="headerlink" title="KaTeX"></a>KaTeX</h3><p>通过KaTeX插件，您可以在网站上使用最快的<a href="https://github.com/Khan/KaTeX">TeX数学排版引擎</a></p>
-<h3 id="pjax"><a href="#pjax" class="headerlink" title="pjax"></a>pjax</h3><p>pjax是一个jQuery插件，它通过ajax和pushState技术提供了极速的（无刷新ajax加载）浏览体验，并且保持了真实的地址、网页标题，浏览器的后退（前进）按钮也可以正常使用。</p>
-<p>pjax的工作原理是通过ajax从服务器端获取HTML，在页面中用获取到的HTML替换指定容器元素中的内容。然后使用pushState技术更新浏览器地址栏中的当前地址。</p>
-<p>以下两点原因决定了pjax会有更快的浏览体验：</p>
-<p>1.不存在页面资源（js&#x2F;css）的重复加载和应用；</p>
-<p>2.如果服务器端配置了pjax，它可以只渲染页面局部内容，从而避免服务器渲染完整布局的额外开销。</p>
-<h4 id="建议开启pjax"><a href="#建议开启pjax" class="headerlink" title="建议开启pjax"></a>建议开启pjax</h4><p>使用<em>pjax</em> 实现网站无刷新加载</p>
-<h4 id="开启pjax"><a href="#开启pjax" class="headerlink" title="开启pjax"></a>开启pjax</h4><p>pjax的开启很简单，我们只需要用CDN加载pjax（去掉链接前面的#，并且在原pjax前加上#，如下图），然后在主题配置中找到pjax设置<code>pjax: true</code>。</p>
-<p><img data-src="https://img.i-nmb.cn/inmb/image-20220419182954415.png" alt="image-20220419182954415"></p>
-<p>使用pjax，你甚至可以给<a href="https://blog.csdn.net/Qxiaofei_/article/details/123072610">Next主题添加全局播放翻页不间断的网易云音乐</a>；</p>
-<h3 id="FancyBox"><a href="#FancyBox" class="headerlink" title="FancyBox"></a>FancyBox</h3><p>支持对放大的图片添加阴影效果，对于一组相关的图片添加导航操作按纽。</p>
-<h3 id="Medium-zoom"><a href="#Medium-zoom" class="headerlink" title="Medium-zoom"></a>Medium-zoom</h3><p>想为自己网站的文章图片添加缩放的效果,可以选择使用<em>medium-zoom</em>这个插件</p>
-<h3 id="Lazy-Load"><a href="#Lazy-Load" class="headerlink" title="Lazy Load"></a>Lazy Load</h3><p>Lazy Load延迟加载图像插件,直到用户滚动到它们才显示!</p>
-<p>lazyload 是网站常用的技术，通过按需加载，避免一次性加载过多内容导致的打开缓慢</p>
-<h3 id="Pangu"><a href="#Pangu" class="headerlink" title="Pangu"></a>Pangu</h3><p>对于强迫症来说，中英文混排时加上空格能很大程度改善阅读体验，但是有时候会不小心打漏部分空格，而 <a href="https://github.com/vinta/pangu.js">pangu</a> 这个项目就可以帮你在展示时自动加上空格</p>
-<h3 id="Quicklink"><a href="#Quicklink" class="headerlink" title="Quicklink"></a>Quicklink</h3><p>可以在空闲时间预获取页面可视区域（以下简称视区）内的链接，加快后续加载速度。</p>
-<h3 id="DisqusJS"><a href="#DisqusJS" class="headerlink" title="DisqusJS"></a>DisqusJS</h3><p><em>DisqusJS</em>:使用DisqusAPI在中国大陆呈现Disqus评论</p>
-<h3 id="Valine"><a href="#Valine" class="headerlink" title="Valine"></a>Valine</h3><p>Valine - 一款快速、简洁且高效的无后端评论系统。</p>
-<h3 id="Gitalk"><a href="#Gitalk" class="headerlink" title="Gitalk"></a>Gitalk</h3><p> Gitalk 是一个基于 GitHub Issue 和 Preact 开发的评论插件</p>
-<h3 id="Algolia-Search"><a href="#Algolia-Search" class="headerlink" title="Algolia Search"></a>Algolia Search</h3><p>Algolia 搜索插件，懂的都懂</p>
-<h3 id="Mermaid"><a href="#Mermaid" class="headerlink" title="Mermaid"></a>Mermaid</h3><p>绘图插件–mermaid</p>
-<h3 id="Velocity"><a href="#Velocity" class="headerlink" title="Velocity"></a>Velocity</h3><h3 id="Pace"><a href="#Pace" class="headerlink" title="Pace"></a>Pace</h3><p>通过使用pace,我们可以展示网页进度条加载效果。</p>
-<h3 id="canvas-ribbon"><a href="#canvas-ribbon" class="headerlink" title="canvas_ribbon"></a>canvas_ribbon</h3><p>背景彩带动画</p>
+<img data-src="https://img1.i-nmb.cn/img/image-20220512221511083.png" alt="表情不显示" style="zoom:80%;" />
+
+<h2 id="问题分析"><a href="#问题分析" class="headerlink" title="问题分析"></a>问题分析</h2><p>在F12开发者工具下，看到所有的src变成了data-src，导致了src没有数据</p>
+<p><img data-src="https://img1.i-nmb.cn/img/image-20220512221829449.png" alt="data-src"></p>
+<p>查看代码，发现他把src一律转换成了data-src。</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="comment">/*! lozad.js - v1.16.0 - 2020-09-06</span></span><br><span class="line"><span class="comment">* https://github.com/ApoorvSaxena/lozad.js</span></span><br><span class="line"><span class="comment">* Copyright (c) 2020 Apoorv Saxena; Licensed MIT */</span></span><br><span class="line">!<span class="keyword">function</span>(<span class="params">t,e</span>)&#123;<span class="string">&quot;object&quot;</span>==<span class="keyword">typeof</span> <span class="built_in">exports</span>&amp;&amp;<span class="string">&quot;undefined&quot;</span>!=<span class="keyword">typeof</span> <span class="variable language_">module</span>?<span class="variable language_">module</span>.<span class="property">exports</span>=<span class="title function_">e</span>():<span class="string">&quot;function&quot;</span>==<span class="keyword">typeof</span> define&amp;&amp;define.<span class="property">amd</span>?<span class="title function_">define</span>(e):t.<span class="property">lozad</span>=<span class="title function_">e</span>()&#125;(<span class="variable language_">this</span>,<span class="keyword">function</span>(<span class="params"></span>)&#123;<span class="string">&quot;use strict&quot;</span>;</span><br><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment">   * Detect IE browser</span></span><br><span class="line"><span class="comment">   * <span class="doctag">@const</span> &#123;<span class="type">boolean</span>&#125;</span></span><br><span class="line"><span class="comment">   * <span class="doctag">@private</span></span></span><br><span class="line"><span class="comment">   */</span><span class="keyword">var</span> g=<span class="string">&quot;undefined&quot;</span>!=<span class="keyword">typeof</span> <span class="variable language_">document</span>&amp;&amp;<span class="variable language_">document</span>.<span class="property">documentMode</span>,f=&#123;<span class="attr">rootMargin</span>:<span class="string">&quot;0px&quot;</span>,<span class="attr">threshold</span>:<span class="number">0</span>,<span class="attr">load</span>:<span class="keyword">function</span>(<span class="params">t</span>)&#123;<span class="keyword">if</span>(<span class="string">&quot;picture&quot;</span>===t.<span class="property">nodeName</span>.<span class="title function_">toLowerCase</span>())&#123;<span class="keyword">var</span> e=t.<span class="title function_">querySelector</span>(<span class="string">&quot;img&quot;</span>),r=!<span class="number">1</span>;<span class="literal">null</span>===e&amp;&amp;(e=<span class="variable language_">document</span>.<span class="title function_">createElement</span>(<span class="string">&quot;img&quot;</span>),r=!<span class="number">0</span>),g&amp;&amp;t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-iesrc&quot;</span>)&amp;&amp;(e.<span class="property">src</span>=t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-iesrc&quot;</span>)),t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-alt&quot;</span>)&amp;&amp;(e.<span class="property">alt</span>=t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-alt&quot;</span>)),r&amp;&amp;t.<span class="title function_">append</span>(e)&#125;<span class="keyword">if</span>(<span class="string">&quot;video&quot;</span>===t.<span class="property">nodeName</span>.<span class="title function_">toLowerCase</span>()&amp;&amp;!t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-src&quot;</span>)&amp;&amp;t.<span class="property">children</span>)&#123;<span class="keyword">for</span>(<span class="keyword">var</span> a=t.<span class="property">children</span>,o=<span class="keyword">void</span> <span class="number">0</span>,i=<span class="number">0</span>;i&lt;=a.<span class="property">length</span>-<span class="number">1</span>;i++)(o=a[i].<span class="title function_">getAttribute</span>(<span class="string">&quot;data-src&quot;</span>))&amp;&amp;(a[i].<span class="property">src</span>=o);t.<span class="title function_">load</span>()&#125;t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-poster&quot;</span>)&amp;&amp;(t.<span class="property">poster</span>=t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-poster&quot;</span>)),t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-src&quot;</span>)&amp;&amp;(t.<span class="property">src</span>=t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-src&quot;</span>)),t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-srcset&quot;</span>)&amp;&amp;t.<span class="title function_">setAttribute</span>(<span class="string">&quot;srcset&quot;</span>,t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-srcset&quot;</span>));<span class="keyword">var</span> n=<span class="string">&quot;,&quot;</span>;<span class="keyword">if</span>(t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-background-delimiter&quot;</span>)&amp;&amp;(n=t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-background-delimiter&quot;</span>)),t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-background-image&quot;</span>))t.<span class="property">style</span>.<span class="property">backgroundImage</span>=<span class="string">&quot;url(&#x27;&quot;</span>+t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-background-image&quot;</span>).<span class="title function_">split</span>(n).<span class="title function_">join</span>(<span class="string">&quot;&#x27;),url(&#x27;&quot;</span>)+<span class="string">&quot;&#x27;)&quot;</span>;<span class="keyword">else</span> <span class="keyword">if</span>(t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-background-image-set&quot;</span>))&#123;<span class="keyword">var</span> d=t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-background-image-set&quot;</span>).<span class="title function_">split</span>(n),u=d[<span class="number">0</span>].<span class="title function_">substr</span>(<span class="number">0</span>,d[<span class="number">0</span>].<span class="title function_">indexOf</span>(<span class="string">&quot; &quot;</span>))||d[<span class="number">0</span>];<span class="comment">// Substring before ... 1x</span></span><br><span class="line">u=-<span class="number">1</span>===u.<span class="title function_">indexOf</span>(<span class="string">&quot;url(&quot;</span>)?<span class="string">&quot;url(&quot;</span>+u+<span class="string">&quot;)&quot;</span>:u,<span class="number">1</span>===d.<span class="property">length</span>?t.<span class="property">style</span>.<span class="property">backgroundImage</span>=<span class="attr">u</span>:t.<span class="title function_">setAttribute</span>(<span class="string">&quot;style&quot;</span>,(t.<span class="title function_">getAttribute</span>(<span class="string">&quot;style&quot;</span>)||<span class="string">&quot;&quot;</span>)+<span class="string">&quot;background-image: &quot;</span>+u+<span class="string">&quot;; background-image: -webkit-image-set(&quot;</span>+d+<span class="string">&quot;); background-image: image-set(&quot;</span>+d+<span class="string">&quot;)&quot;</span>)&#125;t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-toggle-class&quot;</span>)&amp;&amp;t.<span class="property">classList</span>.<span class="title function_">toggle</span>(t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-toggle-class&quot;</span>))&#125;,<span class="attr">loaded</span>:<span class="keyword">function</span>(<span class="params"></span>)&#123;&#125;&#125;;<span class="keyword">function</span> <span class="title function_">A</span>(<span class="params">t</span>)&#123;t.<span class="title function_">setAttribute</span>(<span class="string">&quot;data-loaded&quot;</span>,!<span class="number">0</span>)&#125;<span class="keyword">var</span> m=<span class="keyword">function</span>(<span class="params">t</span>)&#123;<span class="keyword">return</span><span class="string">&quot;true&quot;</span>===t.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-loaded&quot;</span>)&#125;,v=<span class="keyword">function</span>(<span class="params">t</span>)&#123;<span class="keyword">var</span> e=<span class="number">1</span>&lt;<span class="variable language_">arguments</span>.<span class="property">length</span>&amp;&amp;<span class="keyword">void</span> <span class="number">0</span>!==<span class="variable language_">arguments</span>[<span class="number">1</span>]?<span class="variable language_">arguments</span>[<span class="number">1</span>]:<span class="variable language_">document</span>;<span class="keyword">return</span> t <span class="keyword">instanceof</span> <span class="title class_">Element</span>?[t]:t <span class="keyword">instanceof</span> <span class="title class_">NodeList</span>?<span class="attr">t</span>:e.<span class="title function_">querySelectorAll</span>(t)&#125;;<span class="keyword">return</span> <span class="keyword">function</span>(<span class="params"></span>)&#123;<span class="keyword">var</span> r,a,o=<span class="number">0</span>&lt;<span class="variable language_">arguments</span>.<span class="property">length</span>&amp;&amp;<span class="keyword">void</span> <span class="number">0</span>!==<span class="variable language_">arguments</span>[<span class="number">0</span>]?<span class="variable language_">arguments</span>[<span class="number">0</span>]:<span class="string">&quot;.lozad&quot;</span>,t=<span class="number">1</span>&lt;<span class="variable language_">arguments</span>.<span class="property">length</span>&amp;&amp;<span class="keyword">void</span> <span class="number">0</span>!==<span class="variable language_">arguments</span>[<span class="number">1</span>]?<span class="variable language_">arguments</span>[<span class="number">1</span>]:&#123;&#125;,e=<span class="title class_">Object</span>.<span class="title function_">assign</span>(&#123;&#125;,f,t),i=e.<span class="property">root</span>,n=e.<span class="property">rootMargin</span>,d=e.<span class="property">threshold</span>,u=e.<span class="property">load</span>,g=e.<span class="property">loaded</span>,s=<span class="keyword">void</span> <span class="number">0</span>;<span class="string">&quot;undefined&quot;</span>!=<span class="keyword">typeof</span> <span class="variable language_">window</span>&amp;&amp;<span class="variable language_">window</span>.<span class="property">IntersectionObserver</span>&amp;&amp;(s=<span class="keyword">new</span> <span class="title class_">IntersectionObserver</span>((r=u,a=g,<span class="keyword">function</span>(<span class="params">t,e</span>)&#123;t.<span class="title function_">forEach</span>(<span class="keyword">function</span>(<span class="params">t</span>)&#123;(<span class="number">0</span>&lt;t.<span class="property">intersectionRatio</span>||t.<span class="property">isIntersecting</span>)&amp;&amp;(e.<span class="title function_">unobserve</span>(t.<span class="property">target</span>),<span class="title function_">m</span>(t.<span class="property">target</span>)||(<span class="title function_">r</span>(t.<span class="property">target</span>),<span class="title function_">A</span>(t.<span class="property">target</span>),<span class="title function_">a</span>(t.<span class="property">target</span>)))&#125;)&#125;),&#123;<span class="attr">root</span>:i,<span class="attr">rootMargin</span>:n,<span class="attr">threshold</span>:d&#125;));<span class="keyword">for</span>(<span class="keyword">var</span> c,l=<span class="title function_">v</span>(o,i),b=<span class="number">0</span>;b&lt;l.<span class="property">length</span>;b++)(c=l[b]).<span class="title function_">getAttribute</span>(<span class="string">&quot;data-placeholder-background&quot;</span>)&amp;&amp;(c.<span class="property">style</span>.<span class="property">background</span>=c.<span class="title function_">getAttribute</span>(<span class="string">&quot;data-placeholder-background&quot;</span>));<span class="keyword">return</span>&#123;<span class="attr">observe</span>:<span class="keyword">function</span>(<span class="params"></span>)&#123;<span class="keyword">for</span>(<span class="keyword">var</span> t=<span class="title function_">v</span>(o,i),e=<span class="number">0</span>;e&lt;t.<span class="property">length</span>;e++)<span class="title function_">m</span>(t[e])||(s?s.<span class="title function_">observe</span>(t[e]):(<span class="title function_">u</span>(t[e]),<span class="title function_">A</span>(t[e]),<span class="title function_">g</span>(t[e])))&#125;,<span class="attr">triggerLoad</span>:<span class="keyword">function</span>(<span class="params">t</span>)&#123;<span class="title function_">m</span>(t)||(<span class="title function_">u</span>(t),<span class="title function_">A</span>(t),<span class="title function_">g</span>(t))&#125;,<span class="attr">observer</span>:s&#125;&#125;&#125;);</span><br></pre></td></tr></table></figure>
+
+
+
+<p>所以我们使用<code>srcset</code>代替<code>Valine.min.js</code>中的<code>src</code></p>
+<h2 id="具体解决方法"><a href="#具体解决方法" class="headerlink" title="具体解决方法"></a>具体解决方法</h2><p>使用<code>srcset</code>代替<code>Valine.min.js</code>中的<code>src</code></p>
+<p>首先我们先下载js文件到本地：<a href="https://cdn.jsdelivr.net/npm/valine@1/dist/Valine.min.js">下载地址</a></p>
+<p>搜索<code>&lt;img</code></p>
+<p><img data-src="https://img1.i-nmb.cn/img/image-20220512223914575.png" alt="搜索&lt;img"></p>
+<p>然后在<code>&lt;img</code>后面的<code>src</code>替换为<code>srcset</code></p>
+<p>并将更改好的js放在<code>Blog\source</code>中的某个地方</p>
+<p>接下来在CDN引用的地方，修改路径为<code>/js1/Valine.min.js</code>【笔者放在Blog&#x2F;source&#x2F;js1&#x2F;Valine.min.js】</p>
+<p><img data-src="https://img1.i-nmb.cn/img/image-20220512230334642.png" alt="修改路径"></p>
+<p>然后保存，最后<code>hexo cl &amp;&amp; hexo g &amp;&amp; hexo s</code></p>
+<h2 id="问题解决"><a href="#问题解决" class="headerlink" title="问题解决"></a>问题解决</h2><p>看结果，</p>
+<p><img data-src="https://img1.i-nmb.cn/img/image-20220512224151163.png" alt="修护完成"></p>
 ]]></content>
       <tags>
         <tag>hexo</tag>
         <tag>NexT</tag>
+        <tag>lozad</tag>
+        <tag>Valine</tag>
       </tags>
   </entry>
   <entry>
