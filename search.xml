@@ -52,8 +52,8 @@
 <p><a href="https://i-nmb.cn/array.html">数组 | 一些笔记-i囡漫笔 (i-nmb.cn)</a></p>
 ]]></content>
       <tags>
-        <tag>Java</tag>
         <tag>Eclipse</tag>
+        <tag>Java</tag>
       </tags>
   </entry>
   <entry>
@@ -481,8 +481,8 @@ D. O(1),0(1)</p>
 <p><img data-src="https://img1.i-nmb.cn/img/image-20220509223737656.png" alt="在项目中创建一个类文件，在该类中定义Book类型的方法，并通过this关键字进行返回"></p>
 ]]></content>
       <tags>
-        <tag>Java</tag>
         <tag>Eclipse</tag>
+        <tag>Java</tag>
       </tags>
   </entry>
   <entry>
@@ -833,8 +833,8 @@ D. O(1),0(1)</p>
 <p><img data-src="https://img.i-nmb.cn/inmb/image-20220424121804351.png" alt="运行结果"></p>
 ]]></content>
       <tags>
-        <tag>Java</tag>
         <tag>Eclipse</tag>
+        <tag>Java</tag>
       </tags>
   </entry>
   <entry>
@@ -1107,8 +1107,8 @@ D. O(1),0(1)</p>
 <p><img data-src="https://img.i-nmb.cn/inmb/image-20220424023743825.png" alt="正则表达式中的元字符"></p>
 ]]></content>
       <tags>
-        <tag>Java</tag>
         <tag>Eclipse</tag>
+        <tag>Java</tag>
       </tags>
   </entry>
   <entry>
@@ -1186,8 +1186,8 @@ D. O(1),0(1)</p>
 <p><img data-src="https://img.i-nmb.cn/inmb/image-20220423234140928.png" alt="结果"></p>
 ]]></content>
       <tags>
-        <tag>Java</tag>
         <tag>Eclipse</tag>
+        <tag>Java</tag>
       </tags>
   </entry>
   <entry>
@@ -1475,8 +1475,8 @@ D. O(1),0(1)</p>
 <h3 id="编码规范"><a href="#编码规范" class="headerlink" title="编码规范"></a>编码规范</h3><p>在学习开发的过程中要养成良好的编码习惯，因为规范的代码格式会给程序的开发与日后的维护提供很大方便。</p>
 <h6 id="每条语句要单独占一行，一条命令要以分号结束。"><a href="#每条语句要单独占一行，一条命令要以分号结束。" class="headerlink" title="每条语句要单独占一行，一条命令要以分号结束。"></a>每条语句要单独占一行，一条命令要以分号结束。</h6><h6 id="在声明变量时，尽量使每个变量的声明单独占一行，即使是相同的数据类型也要将其放置在单独的一行上，这样有助于添加注释。对于局部变量应在声明的同时对其进行初始化。"><a href="#在声明变量时，尽量使每个变量的声明单独占一行，即使是相同的数据类型也要将其放置在单独的一行上，这样有助于添加注释。对于局部变量应在声明的同时对其进行初始化。" class="headerlink" title="在声明变量时，尽量使每个变量的声明单独占一行，即使是相同的数据类型也要将其放置在单独的一行上，这样有助于添加注释。对于局部变量应在声明的同时对其进行初始化。"></a>在声明变量时，尽量使每个变量的声明单独占一行，即使是相同的数据类型也要将其放置在单独的一行上，这样有助于添加注释。对于局部变量应在声明的同时对其进行初始化。</h6><h6 id="Java代码中，关键字与关键字间如果有多个空格，这些空格均被视作一个。"><a href="#Java代码中，关键字与关键字间如果有多个空格，这些空格均被视作一个。" class="headerlink" title="Java代码中，关键字与关键字间如果有多个空格，这些空格均被视作一个。"></a>Java代码中，关键字与关键字间如果有多个空格，这些空格均被视作一个。</h6><h6 id="由于程序的开发与维护不能是同一个人，所以应尽量使用简单的技术完成程序需要的功能。"><a href="#由于程序的开发与维护不能是同一个人，所以应尽量使用简单的技术完成程序需要的功能。" class="headerlink" title="由于程序的开发与维护不能是同一个人，所以应尽量使用简单的技术完成程序需要的功能。"></a>由于程序的开发与维护不能是同一个人，所以应尽量使用简单的技术完成程序需要的功能。</h6><h6 id="关键的方法要多加注释，这样有助于阅读者了解代码结构"><a href="#关键的方法要多加注释，这样有助于阅读者了解代码结构" class="headerlink" title="关键的方法要多加注释，这样有助于阅读者了解代码结构"></a>关键的方法要多加注释，这样有助于阅读者了解代码结构</h6>]]></content>
       <tags>
-        <tag>Java</tag>
         <tag>Eclipse</tag>
+        <tag>Java</tag>
       </tags>
   </entry>
   <entry>
@@ -1748,8 +1748,8 @@ D. O(1),0(1)</p>
 <h4 id="单步跳入"><a href="#单步跳入" class="headerlink" title="单步跳入"></a>单步跳入</h4><p>在“调试”视图的工具栏中单击按钮或按F5键，**将跳入调用方法或对象的<u>内部</u>**，单步执行程序并暂挂线程。</p>
 ]]></content>
       <tags>
-        <tag>Java</tag>
         <tag>Eclipse</tag>
+        <tag>Java</tag>
       </tags>
   </entry>
   <entry>
