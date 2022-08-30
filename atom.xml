@@ -6,7 +6,7 @@
   <link href="https://i-nmb.cn/atom.xml" rel="self"/>
   
   <link href="https://i-nmb.cn/"/>
-  <updated>2022-06-19T13:58:10.802Z</updated>
+  <updated>2022-08-30T15:04:13.387Z</updated>
   <id>https://i-nmb.cn/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>rand随机函数——MATLAB函数</title>
+    <link href="https://i-nmb.cn/MATLAB-rand.html"/>
+    <id>https://i-nmb.cn/MATLAB-rand.html</id>
+    <published>2022-08-30T11:57:49.000Z</published>
+    <updated>2022-08-30T15:04:13.387Z</updated>
+    
+    
+    <summary type="html">rand函数拥有三种形式，分别是rand、randn、randi。那么，他们仨有什么不同吗？</summary>
+    
+    
+    
+    
+    <category term="MATLAB" scheme="https://i-nmb.cn/tags/MATLAB/"/>
+    
+    <category term="数学建模" scheme="https://i-nmb.cn/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>【实例2】24点游戏</title>
@@ -154,9 +173,9 @@
     
     
     
-    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
-    
     <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
+    
+    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
     
   </entry>
   
@@ -268,9 +287,9 @@
     
     
     
-    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
-    
     <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
+    
+    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
     
   </entry>
   
@@ -287,9 +306,9 @@
     
     
     
-    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
-    
     <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
+    
+    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
     
   </entry>
   
@@ -306,9 +325,9 @@
     
     
     
-    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
-    
     <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
+    
+    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
     
   </entry>
   
@@ -325,9 +344,9 @@
     
     
     
-    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
-    
     <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
+    
+    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
     
   </entry>
   
@@ -344,9 +363,9 @@
     
     
     
-    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
-    
     <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
+    
+    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
     
   </entry>
   
@@ -366,25 +385,6 @@
     <category term="hexo" scheme="https://i-nmb.cn/tags/hexo/"/>
     
     <category term="NexT" scheme="https://i-nmb.cn/tags/NexT/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2022年度SMUCTF的WP笔记</title>
-    <link href="https://i-nmb.cn/SMUCTF.html"/>
-    <id>https://i-nmb.cn/SMUCTF.html</id>
-    <published>2022-04-15T09:47:24.000Z</published>
-    <updated>2022-04-25T17:28:29.026Z</updated>
-    
-    
-    <summary type="html">福建三明学院信息工程学院网络攻防大赛（SMUCTF）是由共青团三明学院信息工程学院委员会主办、信息工程学院网络安全协会承办的一场关于网络安全技术练习的CTF夺旗赛</summary>
-    
-    
-    
-    
-    <category term="CTF" scheme="https://i-nmb.cn/tags/CTF/"/>
-    
-    <category term="WP" scheme="https://i-nmb.cn/tags/WP/"/>
     
   </entry>
   

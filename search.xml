@@ -52,8 +52,55 @@
 <p><a href="https://i-nmb.cn/array.html">数组 | 一些笔记-i囡漫笔 (i-nmb.cn)</a></p>
 ]]></content>
       <tags>
-        <tag>Eclipse</tag>
         <tag>Java</tag>
+        <tag>Eclipse</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>rand随机函数——MATLAB函数</title>
+    <url>/MATLAB-rand.html</url>
+    <content><![CDATA[<p>我们有一串代码</p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">E = <span class="built_in">zeros</span>(<span class="number">10</span>,<span class="number">5</span>,<span class="number">3</span>) ;</span><br><span class="line">E(:,:,<span class="number">1</span>) = <span class="built_in">rand</span>(<span class="number">10</span>,<span class="number">5</span>);</span><br><span class="line">E(:,:,<span class="number">2</span>) = randi(<span class="number">99</span>,<span class="number">10</span>,<span class="number">5</span>);</span><br><span class="line">E(:,:,<span class="number">3</span>) = <span class="built_in">randn</span>(<span class="number">10</span>,<span class="number">5</span>);</span><br></pre></td></tr></table></figure>
+
+
+
+<p>那么这串代码的具体含义是什么呢？</p>
+<h2 id="1-E-x3D-zeros-10-5-3"><a href="#1-E-x3D-zeros-10-5-3" class="headerlink" title="1. E &#x3D; zeros(10,5,3) ;"></a>1. E &#x3D; zeros(10,5,3) ;</h2><p>这串代码是一个赋值代码，<code>zeros函数</code>将赋予10行5列、维度为3的一个0矩阵；</p>
+<p>执行后结果为：</p>
+<img data-src="https://img1.i-nmb.cn/img/image-20220830224403682.png" alt="运行结果" style="zoom:80%;" />
+
+<h2 id="2-rand函数"><a href="#2-rand函数" class="headerlink" title="2. rand函数"></a>2. rand函数</h2><p>rand函数分为3种，分别是rand、randn、randi，他们都用来制造伪随机数</p>
+<blockquote>
+<h3 id="伪随机数"><a href="#伪随机数" class="headerlink" title="伪随机数"></a>伪随机数</h3><p>伪随机数是用确定性的算法计算出来自[0,1]均匀分布的随机数序列。并不真正的随机，但具有类似于随机数的统计特征，如均匀性、独立性等。在计算伪随机数时，若使用的初值（种子）不变，那么伪随机数的数序也不变。</p>
+</blockquote>
+<h3 id="rand"><a href="#rand" class="headerlink" title="rand"></a>rand</h3><p>rand生成均匀分布的伪随机数。分布在(0~1)之间</p>
+<p>使用方法：<code>rand(行数,列数)</code></p>
+<blockquote>
+<p>rand(RandStream,m,n)利用指定的RandStream(我理解为种子)生成伪随机数</p>
+</blockquote>
+<p>运行代码</p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">E = <span class="built_in">zeros</span>(<span class="number">10</span>,<span class="number">5</span>,<span class="number">3</span>) ;</span><br><span class="line">E(:,:,<span class="number">1</span>) = <span class="built_in">rand</span>(<span class="number">10</span>,<span class="number">5</span>)</span><br></pre></td></tr></table></figure>
+
+<p>结果如下</p>
+<img data-src="https://img1.i-nmb.cn/img/image-20220830224939380.png" alt="结果" style="zoom:80%;" />
+
+
+
+<h3 id="randi"><a href="#randi" class="headerlink" title="randi"></a>randi</h3><p><code>randi</code>函数用来生成特定大小区间的均匀分布的伪随机数</p>
+<p>主要语法:<code>randi (iMax)</code>在开区间<code>(0,iMax)</code>生成均匀分布的伪随机整数<br>                <code>randi (iMax,m,n)</code>在开区间<code>(0,iMax)</code>生成m行n列随机矩阵</p>
+<p>​				<code>randi([iMin,iMax],m,n)</code>在开区间<code>(iMin，iMax)</code>生成m行n列型随机矩阵</p>
+<p>运行代码</p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">E = <span class="built_in">zeros</span>(<span class="number">10</span>,<span class="number">5</span>,<span class="number">3</span>) ;</span><br><span class="line">E(:,:,<span class="number">2</span>) = randi(<span class="number">99</span>,<span class="number">10</span>,<span class="number">5</span>)</span><br></pre></td></tr></table></figure>
+
+<p>结果如下：</p>
+<img data-src="https://img1.i-nmb.cn/img/image-20220830230028963.png" alt="结果" style="zoom:80%;" />
+
+<h3 id="randn"><a href="#randn" class="headerlink" title="randn"></a>randn</h3><p>randn函数生成标准正态分布的伪随机数（均值为0．方差为1)</p>
+<p>主要语法:和rand函数一样</p>
+]]></content>
+      <tags>
+        <tag>MATLAB</tag>
+        <tag>数学建模</tag>
       </tags>
   </entry>
   <entry>
@@ -1042,8 +1089,8 @@ D. O(1),0(1)</p>
 <p><img data-src="https://img1.i-nmb.cn/img/image-20220509223737656.png" alt="在项目中创建一个类文件，在该类中定义Book类型的方法，并通过this关键字进行返回"></p>
 ]]></content>
       <tags>
-        <tag>Eclipse</tag>
         <tag>Java</tag>
+        <tag>Eclipse</tag>
       </tags>
   </entry>
   <entry>
@@ -1394,8 +1441,8 @@ D. O(1),0(1)</p>
 <p><img data-src="https://img.i-nmb.cn/inmb/image-20220424121804351.png" alt="运行结果"></p>
 ]]></content>
       <tags>
-        <tag>Eclipse</tag>
         <tag>Java</tag>
+        <tag>Eclipse</tag>
       </tags>
   </entry>
   <entry>
@@ -1668,8 +1715,8 @@ D. O(1),0(1)</p>
 <p><img data-src="https://img.i-nmb.cn/inmb/image-20220424023743825.png" alt="正则表达式中的元字符"></p>
 ]]></content>
       <tags>
-        <tag>Eclipse</tag>
         <tag>Java</tag>
+        <tag>Eclipse</tag>
       </tags>
   </entry>
   <entry>
@@ -1747,8 +1794,8 @@ D. O(1),0(1)</p>
 <p><img data-src="https://img.i-nmb.cn/inmb/image-20220423234140928.png" alt="结果"></p>
 ]]></content>
       <tags>
-        <tag>Eclipse</tag>
         <tag>Java</tag>
+        <tag>Eclipse</tag>
       </tags>
   </entry>
   <entry>
@@ -2036,8 +2083,8 @@ D. O(1),0(1)</p>
 <h3 id="编码规范"><a href="#编码规范" class="headerlink" title="编码规范"></a>编码规范</h3><p>在学习开发的过程中要养成良好的编码习惯，因为规范的代码格式会给程序的开发与日后的维护提供很大方便。</p>
 <h6 id="每条语句要单独占一行，一条命令要以分号结束。"><a href="#每条语句要单独占一行，一条命令要以分号结束。" class="headerlink" title="每条语句要单独占一行，一条命令要以分号结束。"></a>每条语句要单独占一行，一条命令要以分号结束。</h6><h6 id="在声明变量时，尽量使每个变量的声明单独占一行，即使是相同的数据类型也要将其放置在单独的一行上，这样有助于添加注释。对于局部变量应在声明的同时对其进行初始化。"><a href="#在声明变量时，尽量使每个变量的声明单独占一行，即使是相同的数据类型也要将其放置在单独的一行上，这样有助于添加注释。对于局部变量应在声明的同时对其进行初始化。" class="headerlink" title="在声明变量时，尽量使每个变量的声明单独占一行，即使是相同的数据类型也要将其放置在单独的一行上，这样有助于添加注释。对于局部变量应在声明的同时对其进行初始化。"></a>在声明变量时，尽量使每个变量的声明单独占一行，即使是相同的数据类型也要将其放置在单独的一行上，这样有助于添加注释。对于局部变量应在声明的同时对其进行初始化。</h6><h6 id="Java代码中，关键字与关键字间如果有多个空格，这些空格均被视作一个。"><a href="#Java代码中，关键字与关键字间如果有多个空格，这些空格均被视作一个。" class="headerlink" title="Java代码中，关键字与关键字间如果有多个空格，这些空格均被视作一个。"></a>Java代码中，关键字与关键字间如果有多个空格，这些空格均被视作一个。</h6><h6 id="由于程序的开发与维护不能是同一个人，所以应尽量使用简单的技术完成程序需要的功能。"><a href="#由于程序的开发与维护不能是同一个人，所以应尽量使用简单的技术完成程序需要的功能。" class="headerlink" title="由于程序的开发与维护不能是同一个人，所以应尽量使用简单的技术完成程序需要的功能。"></a>由于程序的开发与维护不能是同一个人，所以应尽量使用简单的技术完成程序需要的功能。</h6><h6 id="关键的方法要多加注释，这样有助于阅读者了解代码结构"><a href="#关键的方法要多加注释，这样有助于阅读者了解代码结构" class="headerlink" title="关键的方法要多加注释，这样有助于阅读者了解代码结构"></a>关键的方法要多加注释，这样有助于阅读者了解代码结构</h6>]]></content>
       <tags>
-        <tag>Eclipse</tag>
         <tag>Java</tag>
+        <tag>Eclipse</tag>
       </tags>
   </entry>
   <entry>
@@ -2309,8 +2356,8 @@ D. O(1),0(1)</p>
 <h4 id="单步跳入"><a href="#单步跳入" class="headerlink" title="单步跳入"></a>单步跳入</h4><p>在“调试”视图的工具栏中单击按钮或按F5键，**将跳入调用方法或对象的<u>内部</u>**，单步执行程序并暂挂线程。</p>
 ]]></content>
       <tags>
-        <tag>Eclipse</tag>
         <tag>Java</tag>
+        <tag>Eclipse</tag>
       </tags>
   </entry>
   <entry>
