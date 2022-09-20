@@ -6,7 +6,7 @@
   <link href="https://i-nmb.cn/atom.xml" rel="self"/>
   
   <link href="https://i-nmb.cn/"/>
-  <updated>2022-08-30T15:04:13.387Z</updated>
+  <updated>2022-09-20T15:46:37.109Z</updated>
   <id>https://i-nmb.cn/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>安卓逆向第一解：BUUCTF-Java逆向解密</title>
+    <link href="https://i-nmb.cn/Android-reverse-1st.html"/>
+    <id>https://i-nmb.cn/Android-reverse-1st.html</id>
+    <published>2022-09-20T10:51:54.000Z</published>
+    <updated>2022-09-20T15:46:37.109Z</updated>
+    
+    
+    <summary type="html">安卓逆向，第一次依靠编程来实现解出flag</summary>
+    
+    
+    
+    
+    <category term="reverse" scheme="https://i-nmb.cn/tags/reverse/"/>
+    
+  </entry>
   
   <entry>
     <title>rand随机函数——MATLAB函数</title>
@@ -366,25 +383,6 @@
     <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
     
     <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo-NexT主题加速运行</title>
-    <link href="https://i-nmb.cn/acceleration.html"/>
-    <id>https://i-nmb.cn/acceleration.html</id>
-    <published>2022-04-21T09:55:36.000Z</published>
-    <updated>2022-04-28T13:58:44.754Z</updated>
-    
-    
-    <summary type="html">有时候你的博客加载缓慢，可能是因为加载的本地的东西太多。</summary>
-    
-    
-    
-    
-    <category term="hexo" scheme="https://i-nmb.cn/tags/hexo/"/>
-    
-    <category term="NexT" scheme="https://i-nmb.cn/tags/NexT/"/>
     
   </entry>
   
