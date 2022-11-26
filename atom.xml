@@ -6,7 +6,7 @@
   <link href="https://i-nmb.cn/atom.xml" rel="self"/>
   
   <link href="https://i-nmb.cn/"/>
-  <updated>2022-09-20T15:46:37.109Z</updated>
+  <updated>2022-11-26T06:23:59.963Z</updated>
   <id>https://i-nmb.cn/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>从CDN（或图床）上给JAVA应用加载必要图片资源</title>
+    <link href="https://i-nmb.cn/net-img.html"/>
+    <id>https://i-nmb.cn/net-img.html</id>
+    <published>2022-11-26T06:21:49.000Z</published>
+    <updated>2022-11-26T06:23:59.963Z</updated>
+    
+    
+    <summary type="html">本篇讲述博主如何，从CDN（或图床）上给本地的JAVA应用加载必要图片资源，并且做到可以持续联网更新图片资源。</summary>
+    
+    
+    
+    
+    <category term="JAVA" scheme="https://i-nmb.cn/tags/JAVA/"/>
+    
+    <category term="图床" scheme="https://i-nmb.cn/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>安卓逆向第一解：BUUCTF-Java逆向解密</title>
@@ -357,25 +376,6 @@
     
     
     <summary type="html">流程控制对于任何一门编程语言来说都是至关重要的，它提供了控制程序步骤的基本手段。&lt;/br&gt;（本文章参考《Java从入门到精通 第5版 明日科技》。故不采用 BY-NC-SA 许可协议）</summary>
-    
-    
-    
-    
-    <category term="Eclipse" scheme="https://i-nmb.cn/tags/Eclipse/"/>
-    
-    <category term="Java" scheme="https://i-nmb.cn/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JAVA语言基础</title>
-    <link href="https://i-nmb.cn/JAVA-Foundation.html"/>
-    <id>https://i-nmb.cn/JAVA-Foundation.html</id>
-    <published>2022-04-23T06:12:34.000Z</published>
-    <updated>2022-04-30T14:28:02.027Z</updated>
-    
-    
-    <summary type="html">要掌握并熟练应用Java语言，就需要对Java语言的基础进行充分的了解。&lt;/br&gt;（本文章参考《Java从入门到精通 第5版 明日科技》。故不采用 BY-NC-SA 许可协议）</summary>
     
     
     

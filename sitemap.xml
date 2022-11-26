@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://i-nmb.cn/net-img.html</loc>
+    
+    <lastmod>2022-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://i-nmb.cn/Android-reverse-1st.html</loc>
     
     <lastmod>2022-09-20</lastmod>
@@ -290,14 +299,7 @@
 
   
   <url>
-    <loc>https://i-nmb.cn/tags/hexo/</loc>
-    <lastmod>2022-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://i-nmb.cn/tags/NexT/</loc>
+    <loc>https://i-nmb.cn/tags/reverse/</loc>
     <lastmod>2022-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -318,7 +320,14 @@
   </url>
   
   <url>
-    <loc>https://i-nmb.cn/tags/reverse/</loc>
+    <loc>https://i-nmb.cn/tags/hexo/</loc>
+    <lastmod>2022-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://i-nmb.cn/tags/NexT/</loc>
     <lastmod>2022-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -374,14 +383,14 @@
   </url>
   
   <url>
-    <loc>https://i-nmb.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <loc>https://i-nmb.cn/tags/%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/</loc>
     <lastmod>2022-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://i-nmb.cn/tags/%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/</loc>
+    <loc>https://i-nmb.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
     <lastmod>2022-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -403,6 +412,20 @@
   
   <url>
     <loc>https://i-nmb.cn/tags/Valine/</loc>
+    <lastmod>2022-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://i-nmb.cn/tags/JAVA/</loc>
+    <lastmod>2022-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://i-nmb.cn/tags/%E5%9B%BE%E5%BA%8A/</loc>
     <lastmod>2022-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
